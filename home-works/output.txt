@@ -1,0 +1,2 @@
+The result of divide on 9 and 3 is below: 
+3
