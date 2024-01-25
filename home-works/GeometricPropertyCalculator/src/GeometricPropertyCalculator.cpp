@@ -11,20 +11,20 @@ int dimension1;
 int dimension2;
 int dimension3;
 double output;
-int lines;
+int lines = 6;
 struct Shape{
-    string Name;
-    int dimension1;
-    int dimension2;
-    int dimension3;
+    string Name = "name";
+    int dimension1 = 0;
+    int dimension2 = 0;
+    int dimension3 = 0;
 };
 
-Shape *shape = new Shape[lines];
+struct Shape *shape = new Shape[6];
 
 int countFileLine() {
     string line;
     int lines = 0;
-	ifstream inputFile("data/input.txt");
+	ifstream inputFile("input.txt");
 	if (inputFile.is_open()) {
 		while (getline(inputFile, line)) {
             lines+=1;
@@ -39,20 +39,23 @@ int countFileLine() {
  }
 void readFile() {
     string line;
-    int countFileLine();
+    countFileLine();
     int i = 0;
-	ifstream inputFile("data/input.txt");
+	ifstream inputFile("input.txt");
 	if (inputFile.is_open()) {
+        stringstream ss(line);
 		while (getline(inputFile, line)) {
-            stringstream ss(line);
             ss >> ShapeName >> dimension1 >> dimension2 >> dimension3;
-            shape[i] = {ShapeName, dimension1, dimension2, dimension3};
+            shape[i].Name = ShapeName.c_str();
+            shape[i].dimension1 = dimension1;
+            shape[i].dimension2 = dimension2;
+            shape[i].dimension3 = dimension3;
             i+=1;
 		}
 
 		inputFile.close();
 	} else {
-		cout << "File could not be opened!";
+		cout << "File could not be opened!" << endl;
     }
 
  }
@@ -80,6 +83,7 @@ void readFile() {
     else if (ShapeName == "Rectangle") {
         output = 2 * dimension1 + 2 * dimension2;
     }
+    return output;
  }
 
  int main() {
@@ -89,7 +93,7 @@ void readFile() {
     char command = 0;
     cin >> command;
     if (command == '1') {
-            ofstream outputFile("data/output.txt");
+            ofstream outputFile("output.txt");
         if (outputFile.is_open()) {
             for (int i = 0; i < lines; i++) {
             calculateArea(shape[i].Name, shape[i].dimension1, shape[i].dimension2, shape[i].dimension3);
@@ -98,11 +102,11 @@ void readFile() {
         outputFile.close();
         } 
         else {
-            cout << "File could not be opened!";
+            cout << "File could not be opened!" << endl;
         }
     }
     else if(command == '2') {
-        ofstream outputFile("data/output.txt");
+        ofstream outputFile("output.txt");
         if (outputFile.is_open()) {
             for (int i = 0; i < lines; i++) {
             calculatePerimeter(shape[i].Name, shape[i].dimension1, shape[i].dimension2, shape[i].dimension3);
@@ -111,7 +115,7 @@ void readFile() {
         outputFile.close();
     }
         else {
-            cout << "File could not be opened!";
+            cout << "File could not be opened!" << endl;
         }
     cout << "Done!\n";
     return 0;
