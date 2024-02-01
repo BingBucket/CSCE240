@@ -49,6 +49,10 @@ void romanNumeralCounter(int num){
 
 }
 void readFile(string text) {
+    lineCount = 0;
+    wordCount = 0;
+    charCount = 0;
+    partCount = 0;
     string line;
     //This integer is used to find the individual parts of the 10k file.
     int partNum = 1;
@@ -84,7 +88,7 @@ void readFile(string text) {
 
  }
 
-//Function that checks if there is a duplicate .txt file that already has information in the file. If so, then it exits the function.
+//Function that checks if there is a duplicate .txt file that already has information in the file. If so, then it updates the boolean.
  void checkDupe(string fileName){
      ifstream inputFile("../txt/output.txt");
      if (inputFile.is_open()) {
@@ -106,7 +110,7 @@ void readFile(string text) {
 void writeFile(string fileName) {
     checkDupe(fileName);
     //Checks to make sure that there is no duplicates to the file before appending the contents of the file to the output file.
-    if(Dupe = true){
+        if(Dupe = true){
         return;
     }
     ofstream outputFile("../txt/output.txt", ios::app);

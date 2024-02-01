@@ -5,7 +5,7 @@ Char Count: 240923
 Parts in the file: 4
 
 ParamountGl-10k.txt Information
-Line Count: 4183
-Word Count: 62792
-Char Count: 425426
-Parts in the file: 6
+Line Count: 2200
+Word Count: 26948
+Char Count: 184503
+Parts in the file: 2
