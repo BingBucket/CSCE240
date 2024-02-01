@@ -1,0 +1,2200 @@
+
+		
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+		
+FORM 10-Q
+					
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended September 30, 2023
+OR
+					
+☐
+	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to ____________
+Commission File Number 001-09553
+Paramount Global
+(Exact name of registrant as specified in its charter)
+														
+Delaware		04-2949533
+(State or other jurisdiction of
+incorporation or organization)		(I.R.S. Employer Identification No.)
+				
+1515 Broadway	New York,	New York		10036
+(Address of principal executive offices)		(Zip Code)
+(212) 258-6000
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+																										
+Title of each class		Trading Symbols		Name of each exchange on which registered
+Class A Common Stock, $0.001 par value			PARAA				The Nasdaq Stock Market LLC	
+Class B Common Stock, $0.001 par value			PARA				The Nasdaq Stock Market LLC	
+5.75% Series A Mandatory Convertible Preferred Stock, $0.001 par value			PARAP				The Nasdaq Stock Market LLC	
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒    No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒    No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+											
+Large accelerated filer	☒	Accelerated filer 	☐
+Non-accelerated filer	☐	Smaller reporting company	☐
+		Emerging growth company	☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐    No ☒
+Number of shares of common stock outstanding at October 31, 2023:
+Class A Common Stock, par value $.001 per share— 40,702,875
+Class B Common Stock, par value $.001 per share— 610,703,513
+		
+
+
+PARAMOUNT GLOBAL
+INDEX TO FORM 10-Q
+								
+		Page
+	
+PART I – FINANCIAL INFORMATION
+	
+		
+Item 1.
+	
+Financial Statements.
+	
+		
+	
+Consolidated Statements of Operations (Unaudited) for the
+ Three and Nine Months Ended September 30, 2023 and September 30, 2022
+	
+3
+		
+	
+Consolidated Statements of Comprehensive Income (Unaudited) for the
+ Three and Nine Months Ended September 30, 2023 and September 30, 2022
+	
+4
+		
+	
+Consolidated Balance Sheets (Unaudited) at September 30, 2023 and
+  December 31, 2022
+	
+5
+		
+	
+Consolidated Statements of Cash Flows (Unaudited) for the
+ Nine Months Ended September 30, 2023 and September 30, 2022
+	
+6
+		
+	
+Consolidated Statements of Stockholders’ Equity (Unaudited) for the
+ Three and Nine Months Ended September 30, 2023 and September 30, 2022
+	
+7
+		
+	
+Notes to Consolidated Financial Statements (Unaudited)
+	
+9
+		
+Item 2.
+	
+Management’s Discussion and Analysis of Results of Operations and Financial
+ Condition.
+	
+31
+		
+Item 3.
+	
+Quantitative and Qualitative Disclosures About Market Risk.
+	
+62
+		
+Item 4.
+	
+Controls and Procedures.
+	
+62
+		
+	
+PART II – OTHER INFORMATION
+	
+		
+Item 1.	
+Legal Proceedings.
+	
+63
+		
+Item 1A.	
+Risk Factors.
+	
+63
+		
+Item 2.
+	
+Unregistered Sales of Equity Securities and Use of Proceeds.
+	
+63
+		
+Item 6.
+	
+Exhibits.
+	
+64
+
+
+PART I – FINANCIAL INFORMATION
+					
+Item 1.	Financial Statements.
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited; in millions, except per share amounts)
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues	$	7,133 			$	6,916 			$	22,014 			$	22,023 	
+Costs and expenses:	 		 				
+Operating	4,681 			4,460 			14,872 			14,362 	
+Programming charges	— 			— 			2,371 			— 	
+Selling, general and administrative	1,736 			1,670 			5,272 			4,999 	
+Depreciation and amortization	105 			92 			310 			282 	
+Restructuring and other corporate matters	(10)			169 			44 			276 	
+Total costs and expenses	6,512 			6,391 			22,869 			19,919 	
+Gain on dispositions	— 			41 			— 			56 	
+Operating income (loss)	621 			566 			(855)			2,160 	
+Interest expense	(232)			(231)			(698)			(701)	
+Interest income	29 			33 			97 			73 	
+Gain (loss) from investments	— 			(9)			168 			(9)	
+Loss on extinguishment of debt 	— 			— 			— 			(120)	
+Other items, net	(42)			(36)			(148)			(91)	
+Earnings (loss) from continuing operations before income taxes
+   and equity in loss of investee companies	376 			323 			(1,436)			1,312 	
+(Provision for) benefit from income taxes	(40)			(101)			436 			(264)	
+Equity in loss of investee companies, net of tax	(75)			(58)			(259)			(124)	
+Net earnings (loss) from continuing operations	261 			164 			(1,259)			924 	
+Net earnings from discontinued operations, net of tax	48 			78 			166 			181 	
+Net earnings (loss) (Paramount and noncontrolling interests)	309 			242 			(1,093)			1,105 	
+Net earnings attributable to noncontrolling interests	(14)			(11)			(29)			(22)	
+Net earnings (loss) attributable to Paramount	$	295 			$	231 			$	(1,122)			$	1,083 	
+							
+Amounts attributable to Paramount:							
+Net earnings (loss) from continuing operations	$	247 			$	153 			$	(1,288)			$	902 	
+Net earnings from discontinued operations, net of tax	48 			78 			166 			181 	
+Net earnings (loss) attributable to Paramount	$	295 			$	231 			$	(1,122)			$	1,083 	
+							
+Basic net earnings (loss) per common share attributable to Paramount:	 		 				
+Net earnings (loss) from continuing operations	$	.36 			$	.21 			$	(2.04)			$	1.32 	
+Net earnings from discontinued operations	$	.07 			$	.12 			$	.25 			$	.28 	
+Net earnings (loss)	$	.43 			$	.33 			$	(1.79)			$	1.60 	
+							
+Diluted net earnings (loss) per common share attributable to Paramount:	 		 				
+Net earnings (loss) from continuing operations	$	.36 			$	.21 			$	(2.04)			$	1.32 	
+Net earnings from discontinued operations	$	.07 			$	.12 			$	.25 			$	.28 	
+Net earnings (loss)	$	.43 			$	.33 			$	(1.79)			$	1.60 	
+							
+Weighted average number of common shares outstanding:	 		 				
+Basic	652 			649 			651 			649 	
+Diluted	652 			650 			651 			650 	
+See notes to consolidated financial statements.
+-3-
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited; in millions)
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Net earnings (loss) (Paramount and noncontrolling interests)	$	309 			$	242 			$	(1,093)			$	1,105 	
+Other comprehensive income (loss), net of tax:							
+Cumulative translation adjustments	(87)			(248)			56 			(457)	
+Decrease to net actuarial loss and prior service costs	13 			16 			36 			49 	
+Other comprehensive income (loss) from continuing operations,
+net of tax (Paramount and noncontrolling interests)	(74)			(232)			92 			(408)	
+Other comprehensive loss from discontinued operations	(5)			(8)			(1)			(14)	
+Comprehensive income (loss)	230 			2 			(1,002)			683 	
+Less: Comprehensive income attributable to noncontrolling interests	14 			10 			31 			17 	
+Comprehensive income (loss) attributable to Paramount	$	216 			$	(8)			$	(1,033)			$	666 	
+See notes to consolidated financial statements.
+
+-4-
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Unaudited; in millions, except per share amounts)
+																							
+	At		At
+	September 30, 2023		December 31, 2022
+ASSETS							
+Current Assets:							
+Cash and cash equivalents		$	1,804 					$	2,885 		
+Receivables, net		6,939 					7,412 		
+Programming and other inventory		1,754 					1,342 		
+Prepaid expenses and other current assets		1,536 					1,308 		
+Current assets of discontinued operations		678 					787 		
+Total current assets		12,711 					13,734 		
+Property and equipment, net		1,668 					1,762 		
+Programming and other inventory		13,844 					16,278 		
+Goodwill		16,488 					16,499 		
+Intangible assets, net		2,675 					2,694 		
+Operating lease assets		1,264 					1,391 		
+Deferred income tax assets, net		1,273 					1,242 		
+Other assets		3,913 					3,991 		
+Assets of discontinued operations		804 					802 		
+Total Assets		$	54,640 					$	58,393 		
+LIABILITIES AND STOCKHOLDERS’ EQUITY							
+Current Liabilities:							
+Accounts payable		$	953 					$	1,403 		
+Accrued expenses		2,118 					2,071 		
+Participants’ share and royalties payable		2,731 					2,416 		
+Accrued programming and production costs		1,695 					2,063 		
+Deferred revenues		848 					973 		
+Debt		38 					239 		
+Other current liabilities		1,196 					1,477 		
+Current liabilities of discontinued operations		471 					549 		
+Total current liabilities		10,050 					11,191 		
+Long-term debt		15,627 					15,607 		
+Participants’ share and royalties payable		1,453 					1,744 		
+Pension and postretirement benefit obligations		1,436 					1,458 		
+Deferred income tax liabilities, net		500 					1,077 		
+Operating lease liabilities 		1,307 					1,428 		
+Program rights obligations		209 					367 		
+Other liabilities		1,476 					1,715 		
+Liabilities of discontinued operations		204 					200 		
+							
+Commitments and contingencies (Note 13)							
+							
+Paramount stockholders’ equity:							
+5.75% Series A Mandatory Convertible Preferred Stock, par value $.001 per share;
+    25 shares authorized; 10 (2023 and 2022) shares issued
+		— 					— 		
+Class A Common Stock, par value $.001 per share; 55 shares authorized;
+41 (2023 and 2022) shares issued
+		— 					— 		
+Class B Common Stock, par value $.001 per share; 5,000 shares authorized;
+1,114 (2023) and 1,112 (2022) shares issued
+		1 					1 		
+Additional paid-in capital		33,176 					33,063 		
+Treasury stock, at cost; 503 (2023 and 2022) shares of Class B Common Stock
+		(22,958)					(22,958)		
+Retained earnings		13,363 					14,737 		
+Accumulated other comprehensive loss 		(1,718)					(1,807)		
+Total Paramount stockholders’ equity		21,864 					23,036 		
+Noncontrolling interests		514 					570 		
+Total Equity		22,378 					23,606 		
+Total Liabilities and Equity		$	54,640 					$	58,393 		
+See notes to consolidated financial statements.
+-5-
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited; in millions)
+											
+	Nine Months Ended
+	September 30,
+	2023		2022
+Operating Activities:			
+Net earnings (loss) (Paramount and noncontrolling interests)	$	(1,093)			$	1,105 	
+Less: Net earnings from discontinued operations, net of tax	166 			181 	
+Net earnings (loss) from continuing operations	(1,259)			924 	
+Adjustments to reconcile net earnings (loss) from continuing operations to net cash flow
+   (used for) provided by operating activities from continuing operations:			
+Depreciation and amortization	310 			282 	
+Programming charges	2,371 			— 	
+Deferred tax benefit	(592)			(42)	
+Stock-based compensation	131 			127 	
+Gain on dispositions	— 			(56)	
+(Gain) loss from investments	(168)			9 	
+Loss on extinguishment of debt	— 			120 	
+Equity in loss of investee companies, net of tax	259 			124 	
+Change in assets and liabilities	(1,226)			(1,269)	
+Net cash flow (used for) provided by operating activities from continuing operations	(174)			219 	
+Net cash flow provided by operating activities from discontinued operations	205 			107 	
+Net cash flow provided by operating activities	31 			326 	
+Investing Activities:			
+Investments 	(184)			(189)	
+Capital expenditures	(213)			(228)	
+Other investing activities	56 			37 	
+Net cash flow used for investing activities from continuing operations	(341)			(380)	
+Net cash flow used for investing activities from discontinued operations	(3)			(3)	
+Net cash flow used for investing activities	(344)			(383)	
+Financing Activities:			
+Proceeds from issuance of notes and debentures	— 			989 	
+Repayment of notes and debentures	(139)			(3,010)	
+Dividends paid on preferred stock	(43)			(43)	
+Dividends paid on common stock	(351)			(471)	
+Payment of payroll taxes in lieu of issuing shares for stock-based compensation	(21)			(14)	
+Payments to noncontrolling interests	(97)			(106)	
+Other financing activities	(93)			(26)	
+Net cash flow used for financing activities	(744)			(2,681)	
+Effect of exchange rate changes on cash and cash equivalents	(24)			(146)	
+Net decrease in cash and cash equivalents	(1,081)			(2,884)	
+Cash and cash equivalents at beginning of year 	2,885 			6,267 	
+Cash and cash equivalents at end of period	$	1,804 			$	3,383 	
+See notes to consolidated financial statements.
+-6-
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Unaudited; in millions)
+																																																																																						
+	Three Months Ended September 30, 2023
+	Preferred Stock	Class A and B Common Stock 	Additional Paid-In Capital	Treasury
+Stock		Retained Earnings		Accumulated Other Comprehensive Loss		Total Paramount Stockholders’ Equity		Noncontrolling Interests		Total Equity
+	(Shares)			(Shares)																								
+June 30, 2023	10 			$	— 		651 			$	1 			$	33,135 			$	(22,958)				$	13,116 					$	(1,639)					$	21,655 					$	502 				$	22,157 	
+Stock-based
+compensation
+activity	— 			— 		1 			— 			41 			— 				— 					— 					41 					— 				41 	
+Preferred stock
+dividends	— 			— 		— 			— 			— 			— 				(14)					— 					(14)					— 				(14)	
+Common stock
+dividends	— 			— 		— 			— 			— 			— 				(34)					— 					(34)					— 				(34)	
+Noncontrolling
+interests	— 			— 		— 			— 			— 			— 				— 					— 					— 					(2)				(2)	
+Net earnings	— 			— 		— 			— 			— 			— 				295 					— 					295 					14 				309 	
+Other comprehensive
+loss
+	— 			— 		— 			— 			— 			— 				— 					(79)					(79)					— 				(79)	
+September 30, 2023	10 			$	— 		652 			$	1 			$	33,176 			$	(22,958)				$	13,363 					$	(1,718)					$	21,864 					$	514 				$	22,378 	
+																																																																																						
+	Nine Months Ended September 30, 2023
+	Preferred Stock	Class A and B Common Stock 	Additional Paid-In Capital	Treasury
+Stock		Retained Earnings		Accumulated Other Comprehensive Loss		Total Paramount Stockholders’ Equity		Noncontrolling Interests		Total Equity
+	(Shares)			(Shares)																								
+December 31, 2022	10 			$	— 		650 			$	1 			$	33,063 			$	(22,958)				$	14,737 					$	(1,807)					$	23,036 					$	570 				$	23,606 	
+Stock-based
+compensation
+activity and other	— 			— 		2 			— 			113 			— 				19 					— 					132 					— 				132 	
+Preferred stock
+dividends	— 			— 		— 			— 			— 			— 				(43)					— 					(43)					— 				(43)	
+Common stock
+dividends	— 			— 		— 			— 			— 			— 				(228)					— 					(228)					— 				(228)	
+Noncontrolling
+interests	— 			— 		— 			— 			— 			— 				— 					— 					— 					(87)				(87)	
+Net earnings (loss)	— 			— 		— 			— 			— 			— 				(1,122)					— 					(1,122)					29 				(1,093)	
+Other comprehensive
+income
+	— 			— 		— 			— 			— 			— 				— 					89 					89 					2 				91 	
+September 30, 2023	10 			$	— 		652 			$	1 			$	33,176 			$	(22,958)				$	13,363 					$	(1,718)					$	21,864 					$	514 				$	22,378 	
+See notes to consolidated financial statements.
+
+
+-7-
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (Continued)
+(Unaudited; in millions)
+																																																																																						
+	Three Months Ended September 30, 2022
+	Preferred Stock	Class A and B Common Stock 	Additional Paid-In Capital	Treasury
+Stock		Retained Earnings		Accumulated Other Comprehensive Loss		Total Paramount Stockholders’ Equity		Noncontrolling Interests		Total Equity
+	(Shares)			(Shares)																								
+June 30, 2022	10 			$	— 		649 			$	1 			$	32,984 			$	(22,958)				$	14,829 					$	(2,080)					$	22,776 					$	504 				$	23,280 	
+Stock-based
+compensation
+activity	— 			— 		— 			— 			50 			— 				— 					— 					50 					— 				50 	
+Preferred stock
+dividends	— 			— 		— 			— 			— 			— 				(14)					— 					(14)					— 				(14)	
+Common stock
+dividends	— 			— 		— 			— 			— 			— 				(159)					— 					(159)					— 				(159)	
+Noncontrolling
+interests	— 			— 		— 			— 			— 			— 				2 					— 					2 					(22)				(20)	
+Net earnings	— 			— 		— 			— 			— 			— 				231 					— 					231 					11 				242 	
+Other comprehensive
+loss
+	— 			— 		— 			— 			— 			— 				— 					(239)					(239)					(1)				(240)	
+September 30, 2022	10 			$	— 		649 			$	1 			$	33,034 			$	(22,958)				$	14,889 					$	(2,319)					$	22,647 					$	492 				$	23,139 	
+																																																																																						
+	Nine Months Ended September 30, 2022
+	Preferred Stock	Class A and B Common Stock 	Additional Paid-In Capital	Treasury
+Stock		Retained Earnings		Accumulated Other Comprehensive Loss		Total Paramount Stockholders’ Equity		Noncontrolling Interests		Total Equity
+	(Shares)			(Shares)																								
+December 31, 2021	10 			$	— 		648 			$	1 			$	32,918 			$	(22,958)				$	14,343 					$	(1,902)					$	22,402 					$	568 				$	22,970 	
+Stock-based
+compensation
+activity
+	— 			— 		1 			— 			116 			— 				— 					— 					116 					— 				116 	
+Preferred stock
+dividends	— 			— 		— 			— 			— 			— 				(43)					— 					(43)					— 				(43)	
+Common stock
+dividends	— 			— 		— 			— 			— 			— 				(477)					— 					(477)					— 				(477)	
+Noncontrolling
+interests	— 			— 		— 			— 			— 			— 				(17)					— 					(17)					(93)				(110)	
+Net earnings	— 			— 		— 			— 			— 			— 				1,083 					— 					1,083 					22 				1,105 	
+Other comprehensive
+loss	— 			— 		— 			— 			— 			— 				— 					(417)					(417)					(5)				(422)	
+September 30, 2022	10 			$	— 		649 			$	1 			$	33,034 			$	(22,958)				$	14,889 					$	(2,319)					$	22,647 					$	492 				$	23,139 	
+See notes to consolidated financial statements.
+-8-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Tabular dollars in millions, except per share amounts)
+
+1) BASIS OF PRESENTATION
+Description of Business—Paramount Global, a global media, streaming and entertainment company that creates premium content and experiences for audiences worldwide, is comprised of the following segments:
+
+•TV Media—Our TV Media segment consists of our (1) broadcast operations—the CBS Television Network, our domestic broadcast television network; CBS Stations, our owned television stations; and our international free-to-air networks, Network 10, Channel 5, Telefe, and Chilevisión; (2) premium and basic cable networks, including Showtime (to be rebranded to Paramount+ with Showtime in the future), MTV, Comedy Central, Paramount Network, The Smithsonian Channel, Nickelodeon, BET Media Group, CBS Sports Network, and international extensions of certain of these brands; (3) domestic and international television studio operations, including CBS Studios, Paramount Television Studios and MTV Entertainment Studios, as well as CBS Media Ventures, which produces and distributes first-run syndicated programming. TV Media also includes a number of digital properties such as CBS News Streaming and CBS Sports HQ.
+
+•Direct-to-Consumer—Our Direct-to-Consumer segment consists of our portfolio of domestic and international pay and free streaming services, including Paramount+, Pluto TV, Showtime Networks’ domestic premium subscription streaming service (Showtime OTT), BET+ and Noggin. Effective June 27, 2023, we launched the Paramount+ with Showtime plan in the United States, which replaced the Paramount+ Premium plan. Effective July 6, 2023, Showtime OTT was no longer offered as a standalone subscription service for new subscribers.
+
+•Filmed Entertainment—Our Filmed Entertainment segment consists of Paramount Pictures, Paramount Players, Paramount Animation, Nickelodeon Studio, Awesomeness and Miramax.
+
+References to “Paramount,” the “Company,” “we,” “us” and “our” refer to Paramount Global and its consolidated subsidiaries, unless the context otherwise requires.
+
+Basis of Presentation—The accompanying unaudited consolidated financial statements have been prepared on a basis consistent with accounting principles generally accepted in the United States (“GAAP”) for interim financial information and pursuant to the rules of the Securities and Exchange Commission (SEC). These financial statements should be read in conjunction with the more detailed financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2022.
+
+In the opinion of management, the accompanying unaudited consolidated financial statements reflect all adjustments, consisting only of normal and recurring adjustments, necessary for a fair statement of our financial position, results of operations and cash flows for the periods presented. Certain previously reported amounts have been reclassified to conform to the current presentation.
+
+Discontinued Operations—Simon & Schuster is presented as a discontinued operation in our consolidated financial statements for all periods presented (see Note 2).
+
+Use of Estimates—The preparation of our consolidated financial statements in conformity with GAAP requires management to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities as of the date of the financial statements and the reported amounts of revenues and expenses during the periods presented. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily
+-9-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+apparent from other sources. Actual results may vary from these estimates under different assumptions or conditions.
+
+Net Earnings (Loss) per Common Share—Basic net earnings (loss) per share (“EPS”) is based upon net earnings (loss) available to common stockholders divided by the weighted average number of common shares outstanding during the period. Net earnings (loss) available to common stockholders is calculated as net earnings (loss) from continuing operations or net earnings (loss), as applicable, adjusted to include a reduction for dividends recorded during the applicable period on our 5.75% Series A Mandatory Convertible Preferred Stock (“Mandatory Convertible Preferred Stock”).
+
+Weighted average shares for diluted EPS reflects the effect of the assumed exercise of stock options and vesting of restricted share units (“RSUs”) or performance share units (“PSUs”) only in the periods in which such effect would have been dilutive. Diluted EPS also reflects the effect of the assumed conversion of preferred stock, if dilutive, which includes the issuance of common shares in the weighted average number of shares and excludes the above-mentioned preferred stock dividend adjustment to net earnings (loss) available to common stockholders.
+
+For the nine months ended September 30, 2023, all of our stock options and RSUs, which totaled 19 million, were excluded from the calculation of diluted EPS because their inclusion would have been antidilutive since we reported a net loss. Stock options and RSUs totaling 18 million for the three months ended September 30, 2023 and 14 million and 10 million for the three and nine months ended September 30, 2022, respectively, were excluded from the calculations of diluted EPS because their inclusion would have been antidilutive. Also excluded from the calculation of diluted EPS for each period was the effect of the assumed conversion of 10 million shares of Mandatory Convertible Preferred Stock into shares of common stock because the impact would have been antidilutive. The table below presents a reconciliation of weighted average shares used in the calculation of basic and diluted EPS.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+(in millions)	2023		2022		2023		2022
+Weighted average shares for basic EPS	652 			649 			651 			649 	
+Dilutive effect of shares issuable under stock-based
+compensation plans
+	— 			1 			— 			1 	
+Weighted average shares for diluted EPS	652 			650 			651 			650 	
+
+-10-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Additionally, because the impact of the assumed conversion of the Mandatory Convertible Preferred Stock would have been antidilutive, net earnings (loss) from continuing operations and net earnings (loss) used in our calculations of diluted EPS for the three and nine months ended September 30, 2023 and 2022 include a reduction for the preferred stock dividends recorded during each period. The table below presents a reconciliation of net earnings (loss) from continuing operations and net earnings (loss) to the amounts used in the calculations of basic and diluted EPS.
+																										
+		Three Months Ended		Nine Months Ended
+		September 30,		September 30,
+		2023		2022		2023		2022
+Amounts attributable to Paramount:								
+Net earnings (loss) from continuing operations		$	247 			$	153 			$	(1,288)			$	902 	
+Preferred stock dividends		(14)			(14)			(43)			(43)	
+Net earnings (loss) from continuing operations for basic and
+   diluted EPS calculation
+		$	233 			$	139 			$	(1,331)			$	859 	
+								
+Amounts attributable to Paramount:								
+Net earnings (loss)
+		$	295 			$	231 			$	(1,122)			$	1,083 	
+Preferred stock dividends		(14)			(14)			(43)			(43)	
+Net earnings (loss) for basic and diluted EPS calculation
+		$	281 			$	217 			$	(1,165)			$	1,040 	
+-11-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+2) DISPOSITIONS
+Simon & Schuster
+On October 30, 2023, we completed the sale of Simon & Schuster to affiliates of Kohlberg Kravis Roberts & Co. for $1.62 billion. As a result, we will recognize a gain in the fourth quarter of 2023, which we estimate will be approximately $700 million.
+
+The following table sets forth details of net earnings from discontinued operations for the three and nine months ended September 30, 2023 and 2022, which primarily reflects the results of Simon & Schuster.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues	$	307 			$	353 			$	857 			$	863 	
+Costs and expenses:							
+Operating	195 			198 			501 			483 	
+Selling, general and administrative 	49 			45 			138 			130 	
+Restructuring charges	— 			2 			— 			2 	
+Total costs and expenses (a)
+	244 			245 			639 			615 	
+Operating income	63 			108 			218 			248 	
+Other items, net	(4)			(3)			(11)			(9)	
+Earnings from discontinued operations	59 			105 			207 			239 	
+Provision for income taxes (b)
+	(11)			(27)			(41)			(58)	
+Net earnings from discontinued operations, net of tax 	$	48 			$	78 			$	166 			$	181 	
+(a) Included in total costs and expenses are amounts associated with the release of indemnification obligations for leases relating to a previously disposed business of $3 million and $9 million for the three and nine months ended September 30, 2023, respectively, and $15 million and $25 million for the three and nine months ended September 30, 2022, respectively.
+(b) The tax provision includes amounts relating to previously disposed businesses of $1 million and $2 million for the three and nine months ended September 30, 2023, respectively, and $4 million and $6 million for the three and nine months ended September 30, 2022, respectively.
+The following table presents the major classes of assets and liabilities of our discontinued operations.
+																							
+	At		At
+	September 30, 2023		December 31, 2022
+Receivables, net		$	465 					$	558 		
+Other current assets		213 					229 		
+Goodwill 		435 					434 		
+Property and equipment, net		56 					53 		
+Operating lease assets		220 					204 		
+Other assets		93 					111 		
+Total Assets		$	1,482 					$	1,589 		
+Royalties payable		$	146 					$	161 		
+Other current liabilities		325 					388 		
+Operating lease liabilities		187 					182 		
+Other liabilities		17 					18 		
+Total Liabilities		$	675 					$	749 		
+-12-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Other
+In September 2022, in connection with our funding commitments under our streaming joint venture with Comcast Corporation, SkyShowtime, we made a noncash contribution of certain assets of Paramount+ in the Nordics to the joint venture, which resulted in a gain of $41 million. This gain is included in “Gain on dispositions” on the Consolidated Statements of Operations for the three and nine months ended September 30, 2022. Gain on dispositions for the nine months ended September 30, 2022 also includes gains on sales totaling $15 million, comprised of a gain from the sale of international intangible assets and a working capital adjustment to the gain from the fourth quarter 2021 sale of CBS Studio Center.
+3) PROGRAMMING AND OTHER INVENTORY
+The following table presents our programming and other inventory at September 30, 2023 and December 31, 2022, grouped by type and predominant monetization strategy.
+																							
+	At		At
+	September 30, 2023		December 31, 2022
+Film Group Monetization:							
+Acquired program rights, including prepaid sports rights		$	3,438 					$	3,238 		
+Internally-produced television and film programming:							
+Released		6,591 					7,154 		
+In process and other		2,178 					3,299 		
+							
+Individual Monetization:							
+Acquired libraries		361 					394 		
+Film inventory:							
+Released		686 					694 		
+Completed, not yet released		146 					129 		
+In process and other		1,198 					1,317 		
+Internally-produced television programming:							
+Released		506 					624 		
+In process and other		459 					726 		
+Home entertainment		35 					45 		
+Total programming and other inventory		15,598 					17,620 		
+Less current portion		1,754 					1,342 		
+Total noncurrent programming and other inventory		$	13,844 					$	16,278 		
+The following table presents amortization of our television and film programming and production costs, which is included within “Operating expenses” on the Consolidated Statements of Operations.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Programming costs, acquired programming	$	1,113 			$	987 			$	3,761 			$	3,632 	
+							
+Production costs, internally-produced television and film
+   programming: 							
+Individual monetization	$	530 			$	392 			$	1,660 			$	1,554 	
+Film group monetization	$	1,104 			$	1,202 			$	3,830 			$	3,646 	
+-13-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Programming Charges
+During the first half of 2023, in connection with the integration of Showtime into Paramount+ across both streaming and linear platforms, we performed a comprehensive strategic review of the combined content portfolio of Showtime and Paramount+. Additionally, during the first quarter of 2023, we commenced a review of our international content portfolio in connection with initiatives to rationalize and right-size our international operations to align with our streaming strategy, and close or globalize certain of our international channels. As a result, we changed the strategy for certain content, which led to content being removed from our platforms or abandoned, the write-off of development costs, distribution changes, and termination of programming agreements. Accordingly, during the first half of 2023 we recorded programming charges on the Consolidated Statement of Operations relating to these actions. These charges, which totaled $2.37 billion, were comprised of $1.97 billion for the impairment of content to its estimated fair value, as well as $402 million for development cost write-offs and contract termination costs. For content that was removed from our platforms or abandoned, the estimated fair value was determined using assumptions for secondary market licensing revenues, if any.
+4) RELATED PARTIES
+National Amusements, Inc.
+National Amusements, Inc. (“NAI”) is the controlling stockholder of the Company. At September 30, 2023, NAI directly or indirectly owned approximately 77.4% of our voting Class A Common Stock and approximately 9.8% of our Class A Common Stock and non-voting Class B Common Stock on a combined basis. NAI is controlled by the Sumner M. Redstone National Amusements Part B General Trust (the “General Trust”), which owns 80% of the voting interest of NAI and acts by majority vote of seven voting trustees (subject to certain exceptions), including with respect to the NAI shares held by the General Trust. Shari E. Redstone, Chairperson, CEO and President of NAI and non-executive Chair of our Board of Directors, is one of the seven voting trustees for the General Trust and is one of two voting trustees who are beneficiaries of the General Trust. No member of our management or other member of our Board of Directors is a trustee of the General Trust.
+
+Other Related Parties
+In the ordinary course of business, we are involved in transactions with our equity-method investees, primarily for the licensing of television and film programming. The following tables present the amounts recorded in our consolidated financial statements related to these transactions.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues	$	66 			$	83 			$	261 			$	211 	
+Operating expenses	$	5 			$	11 			$	18 			$	17 	
+
+																							
+	At		At
+	
+September 30, 2023 (a)
+		December 31, 2022
+Receivables, net		$	232 					$	180 		
+Other assets (Receivables, noncurrent)		$	89 					$	18 		
+(a) The increase in receivables relates to our SkyShowtime joint venture.
+
+Through the normal course of business, we are involved in other transactions with related parties that have not been material in any of the periods presented.
+-14-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+5) REVENUES
+The table below presents our revenues disaggregated into categories based on the nature of such revenues. See Note 12 for revenues by segment disaggregated into these categories.
+																							
+	Three Months Ended 		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues by Type:							
+Advertising 	$	2,133 			$	2,337 			$	7,179 			$	7,746 	
+Affiliate and subscription	3,262 			2,863 			9,676 			8,591 	
+Theatrical	377 			231 			735 			1,126 	
+Licensing and other	1,361 			1,485 			4,424 			4,560 	
+Total Revenues	$	7,133 			$	6,916 			$	22,014 			$	22,023 	
+Receivables
+Reserves for accounts receivable reflect our expected credit losses based on historical experience as well as current and expected economic conditions. At September 30, 2023 and December 31, 2022, our allowance for credit losses was $99 million and $111 million, respectively.
+
+Included in “Other assets” on the Consolidated Balance Sheets are noncurrent receivables of $1.42 billion and $1.61 billion at September 30, 2023 and December 31, 2022, respectively. Noncurrent receivables primarily relate to revenues recognized under long-term content licensing arrangements. Revenues from the licensing of content are recognized at the beginning of the license period in which programs are made available to the licensee for exhibition, while the related cash is generally collected over the term of the license period.
+
+Contract Liabilities
+Contract liabilities are included within “Deferred revenues” and “Other liabilities” on the Consolidated Balance Sheets and were $0.9 billion and $1.06 billion at September 30, 2023 and December 31, 2022, respectively. We recognized revenues of $0.8 billion for each of the nine months ended September 30, 2023 and 2022 that were included in the opening balance of deferred revenues for the respective year.
+
+Unrecognized Revenues Under Contract
+At September 30, 2023, unrecognized revenues attributable to unsatisfied performance obligations under our long-term contracts were approximately $8 billion, of which $1 billion is expected to be recognized during the remainder of 2023, $3 billion in 2024, $2 billion in 2025, and $2 billion thereafter. These amounts only include contracts subject to a guaranteed fixed amount or the guaranteed minimum under variable contracts, primarily consisting of television and film licensing contracts and affiliate agreements that are subject to a fixed or guaranteed minimum fee. Such amounts change on a regular basis as we renew existing agreements or enter into new agreements. In addition, the timing of satisfying certain of the performance obligations under these long-term contracts is uncertain and, therefore, is also subject to change. Unrecognized revenues under contracts disclosed above do not include (i) contracts with an original expected term of one year or less, mainly consisting of advertising contracts, (ii) contracts for which variable consideration is determined based on the customer’s subsequent sale or usage, mainly consisting of affiliate agreements and (iii) long-term licensing agreements for multiple programs for which variable consideration is determined based on the value of the programs delivered to the customer and our right to invoice corresponds with the value delivered.
+
+-15-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Performance Obligations Satisfied in Previous Periods
+Under certain licensing arrangements, the amount and timing of our revenue recognition is determined based on our licensees’ subsequent sale to its end customers. As a result, under such arrangements we often satisfy our performance obligation of delivery of our content in advance of revenue recognition. For the three months ended September 30, 2023 and 2022, we recognized revenues of $0.1 billion and $0.3 billion, respectively, and for each of the nine months ended September 30, 2023 and 2022, we recognized revenues of $0.3 billion, from arrangements for the licensing of our content, including from distributors of transactional video-on-demand and electronic sell-through services and other licensing arrangements, as well as from the theatrical distribution of our films, for which our performance obligation was satisfied in a prior period.
+6) DEBT
+Our debt consists of the following:
+																							
+	At		At
+	September 30, 2023		December 31, 2022
+7.875% Debentures due 2023
+		$	— 					$	139 		
+7.125% Senior Notes due 2023
+		35 					35 		
+4.75% Senior Notes due 2025
+		553 					552 		
+4.0% Senior Notes due 2026
+		796 					795 		
+3.45% Senior Notes due 2026
+		124 					124 		
+2.90% Senior Notes due 2027
+		695 					694 		
+3.375% Senior Notes due 2028
+		497 					496 		
+3.70% Senior Notes due 2028
+		495 					494 		
+4.20% Senior Notes due 2029
+		496 					495 		
+7.875% Senior Debentures due 2030
+		830 					830 		
+4.95% Senior Notes due 2031
+		1,228 					1,226 		
+4.20% Senior Notes due 2032
+		977 					975 		
+5.50% Senior Debentures due 2033
+		427 					427 		
+4.85% Senior Debentures due 2034
+		87 					87 		
+6.875% Senior Debentures due 2036
+		1,071 					1,071 		
+6.75% Senior Debentures due 2037
+		76 					75 		
+5.90% Senior Notes due 2040
+		298 					298 		
+4.50% Senior Debentures due 2042
+		45 					45 		
+4.85% Senior Notes due 2042
+		489 					488 		
+4.375% Senior Debentures due 2043
+		1,136 					1,130 		
+4.875% Senior Debentures due 2043
+		18 					18 		
+5.85% Senior Debentures due 2043
+		1,234 					1,233 		
+5.25% Senior Debentures due 2044
+		345 					345 		
+4.90% Senior Notes due 2044
+		541 					541 		
+4.60% Senior Notes due 2045
+		590 					590 		
+4.95% Senior Notes due 2050
+		947 					946 		
+6.25% Junior Subordinated Debentures due 2057
+		643 					643 		
+6.375% Junior Subordinated Debentures due 2062
+		989 					989 		
+Other bank borrowings		— 					55 		
+Obligations under finance leases		3 					10 		
+Total debt (a)
+		15,665 					15,846 		
+Less current portion 		38 					239 		
+Total long-term debt, net of current portion		$	15,627 					$	15,607 		
+(a) At September 30, 2023 and December 31, 2022, the senior and junior subordinated debt balances included (i) a net unamortized discount of $427 million and $442 million, respectively, and (ii) unamortized deferred financing costs of $84 million and $89 million, respectively. The face value of our total debt was $16.18 billion and $16.38 billion at September 30, 2023 and December 31, 2022, respectively.
+-16-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+In September 2023, we repaid our $139 million of 7.875% debentures upon maturity. In addition, on November 1, 2023, we repaid our $35 million of 7.125% senior notes upon maturity.
+
+On November 2, 2023, we announced the commencement of cash tender offers for up to $1.0 billion combined aggregate purchase price of certain of our outstanding senior notes due between 2025 and 2028.
+
+During the nine months ended September 30, 2022, we redeemed $2.39 billion of senior notes, prior to maturity, for an aggregate redemption price of $2.49 billion. Also in 2022, we redeemed $520 million of 5.875% junior subordinated debentures due February 2057 at par. These redemptions resulted in a total pre-tax loss on extinguishment of debt of $120 million for the nine months ended September 30, 2022.
+
+During the nine months ended September 30, 2022, we also issued $1.00 billion of 6.375% junior subordinated debentures due 2062.
+
+Commercial Paper
+At both September 30, 2023 and December 31, 2022, we had no outstanding commercial paper borrowings.
+
+Credit Facility
+During the first quarter of 2023, we amended and extended our $3.50 billion revolving credit facility (the “Credit Facility”), which now matures in January 2027 (the “2023 Amendment”). The Credit Facility is used for general corporate purposes and to support commercial paper borrowings, if any. We may, at our option, also borrow in certain foreign currencies up to specified limits under the Credit Facility. Borrowing rates under the Credit Facility are determined at the time of each borrowing and are generally based on either the prime rate in the U.S. or an applicable benchmark rate plus a margin (based on our senior unsecured debt rating), depending on the type and tenor of the loans entered into. Under the 2023 Amendment, we replaced LIBOR as the benchmark rate for loans denominated in U.S. dollars with Term SOFR. The benchmark rate for loans denominated in euros, sterling and yen is based on EURIBOR, SONIA and TIBOR, respectively. The Credit Facility was also amended to include a provision that the occurrence of a Change of Control (as defined in the amended credit agreement) of Paramount will be an event of default that would give the lenders the right to accelerate any outstanding loans and terminate their commitments. At September 30, 2023, we had no borrowings outstanding under the Credit Facility and the availability under the Credit Facility was $3.50 billion.
+
+The Credit Facility has one principal financial covenant which sets a maximum Consolidated Total Leverage Ratio (“Leverage Ratio”) at the end of each quarter, which prior to the 2023 Amendment was 4.5x. Under the 2023 Amendment, the maximum Leverage Ratio was increased to 5.75x for each quarter through and including the quarter ending September 30, 2024, and will then decrease to 5.5x for the quarters ending December 31, 2024 and March 31, 2025, with decreases of 0.25x for each subsequent quarter until it reaches 4.5x for the quarter ending March 31, 2026. The Leverage Ratio reflects the ratio of our Consolidated Indebtedness, net of unrestricted cash and cash equivalents at the end of a quarter, to our Consolidated EBITDA (each as defined in the amended credit agreement) for the trailing twelve-month period. Under the 2023 Amendment, the definition of the Leverage Ratio was also modified to set the maximum amount of unrestricted cash and cash equivalents that can be netted against Consolidated Indebtedness to $1.50 billion for quarters ending on or after September 30, 2024. In addition, under the 2023 Amendment, Simon & Schuster was treated as a continuing operation for the purposes of calculating Consolidated EBITDA until its disposition in October 2023. We met the covenant as of September 30, 2023.
+
+-17-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Other Bank Borrowings
+At September 30, 2023, we had no outstanding bank borrowings under Miramax’s $50 million credit facility, which matures in November 2024. This facility replaced the previous $300 million credit facility that matured in April 2023. At December 31, 2022, we had $55 million of bank borrowings under the previous facility with a weighted average interest rate of 7.09%.
+7) FINANCIAL INSTRUMENTS AND FAIR VALUE MEASUREMENTS
+The carrying value of our financial instruments approximates fair value, except for notes and debentures. At September 30, 2023 and December 31, 2022, the carrying value of our outstanding notes and debentures was $15.66 billion and $15.78 billion, respectively, and the fair value, which is determined based on quoted prices in active markets (Level 1 in the fair value hierarchy) was $13.0 billion and $13.9 billion, respectively.
+
+Investments
+In April 2023, our ownership of Viacom18 was diluted from 49% to 13% following investment by other parties. Accordingly, we no longer account for it under the equity method. The difference between the carrying value of our 49% interest and the fair value of our 13% interest, as indicated by the additional investments, resulted in a noncash gain of $168 million during the second quarter of 2023.
+
+In September 2022, we sold a 37.5% interest in The CW to Nexstar Media Inc. and received a noncash distribution of $139 million, comprised of certain licensing receivables earned by The CW prior to the sale. This transaction, which reduced our ownership in The CW to 12.5%, resulted in a loss of $4 million, which principally consisted of transaction costs. This loss, along with an impairment of an investment of $5 million, is recorded in “Gain (loss) from investments” on the Consolidated Statements of Operations.
+
+The carrying value of our investments without a readily determinable fair value for which we have no significant influence, including Viacom18 subsequent to the dilution of our investment, was $592 million and $70 million at September 30, 2023 and December 31, 2022, respectively. These investments are included in “Other assets” on the Consolidated Balance Sheets.
+
+Foreign Exchange Contracts
+We use derivative financial instruments primarily to manage our exposure to market risks from fluctuations in foreign currency exchange rates. We do not use derivative instruments unless there is an underlying exposure and, therefore, we do not hold or enter into derivative financial instruments for speculative trading purposes.
+
+Foreign exchange forward contracts have principally been used to hedge projected cash flows, in currencies such as the British pound, the euro, the Canadian dollar and the Australian dollar, generally for periods up to 24 months. We designate foreign exchange forward contracts used to hedge committed and forecasted foreign currency transactions as cash flow hedges. Additionally, we enter into non-designated forward contracts to hedge non-U.S. dollar denominated cash flows.
+
+At September 30, 2023 and December 31, 2022, the notional amount of all foreign exchange contracts was $2.62 billion and $3.06 billion, respectively. At September 30, 2023, $2.14 billion related to future production costs and $477 million related to our foreign currency balances and other expected foreign currency cash flows. At December 31, 2022, $2.40 billion related to future production costs and $655 million related to our foreign currency balances and other expected foreign currency cash flows.
+
+-18-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Gains recognized on derivative financial instruments were as follows:
+																										
+	Three Months Ended 		Nine Months Ended	
+	September 30,		September 30,	
+	2023		2022		2023		2022	Financial Statement Account
+Non-designated foreign exchange contracts	$	9 			$	35 			$	3 			$	75 		Other items, net
+Fair Value Measurements
+The table below presents our assets and liabilities measured at fair value on a recurring basis at September 30, 2023 and December 31, 2022. These assets and liabilities have been categorized according to the three-level fair value hierarchy established by the Financial Accounting Standards Board (“FASB”), which prioritizes the inputs used in measuring fair value. Level 1 is based on publicly quoted prices for the asset or liability in active markets. Level 2 is based on inputs that are observable other than quoted market prices in active markets, such as quoted prices for the asset or liability in inactive markets or quoted prices for similar assets or liabilities. Level 3 is based on unobservable inputs reflecting our own assumptions about the assumptions that market participants would use in pricing the asset or liability. All of our assets and liabilities that are measured at fair value on a recurring basis use level 2 inputs. The fair value of foreign currency hedges is determined based on the present value of future cash flows using observable inputs including foreign currency exchange rates. The fair value of deferred compensation liabilities is determined based on the fair value of the investments elected by employees.
+																							
+		At				At	
+	September 30, 2023		December 31, 2022
+Assets:							
+Foreign currency hedges		$	27 					$	39 		
+Total Assets		$	27 					$	39 		
+Liabilities:							
+Deferred compensation		$	330 					$	336 		
+Foreign currency hedges		39 					83 		
+Total Liabilities		$	369 					$	419 		
+The estimated fair value of our impaired content was determined using level 3 inputs. See Note 3.
+
+8) VARIABLE INTEREST ENTITIES
+In the normal course of business, we enter into joint ventures or make investments with business partners that support our underlying business strategy and provide us the ability to enter new markets to expand the reach of our brands, develop new programming and/or distribute our existing content. In certain instances, an entity in which we make an investment may qualify as a variable interest entity (“VIE”). In determining whether we are the primary beneficiary of a VIE, we assess whether we have the power to direct matters that most significantly impact the activities of the VIE, and have the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE.
+
+
+-19-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+The following tables present the amounts recorded in our consolidated financial statements related to our consolidated VIEs.
+																							
+		At				At	
+	September 30, 2023		December 31, 2022
+Total assets		$	1,904 					$	1,961 		
+							
+Total liabilities		$	220 					$	328 		
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues	$	144 			$	98 			$	490 			$	287 	
+							
+Operating loss	$	(13)			$	(35)			$	(45)			$	(90)	
+9) STOCKHOLDERS’ EQUITY
+Dividends
+The following table presents dividends declared per share and total dividends for our Class A and B Common Stock and our Mandatory Convertible Preferred Stock for the three and nine months ended September 30, 2023 and 2022.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Class A and Class B Common Stock
+							
+Dividends declared per common share	$	.05 			$	.24 			$	.34 			$	.72 	
+							
+Total common stock dividends	$	34 			$	159 			$	228 			$	477 	
+Mandatory Convertible Preferred Stock
+							
+Dividends declared per preferred share	$	1.4375 			$	1.4375 			$	4.3125 			$	4.3125 	
+							
+Total preferred stock dividends	$	14 			$	14 			$	43 			$	43 	
+
+
+-20-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Accumulated Other Comprehensive Income (Loss)
+The following tables summarize the changes in the components of accumulated other comprehensive loss.
+																																															
+	Continuing Operations		Discontinued Operations				
+	Cumulative
+Translation
+Adjustments		Net Actuarial
+Loss and Prior
+Service Cost		
+Other Comprehensive Income (Loss) (a)
+		Accumulated
+Other
+Comprehensive Loss
+At December 31, 2022		$	(680)					$	(1,097)					$	(30)					$	(1,807)		
+Other comprehensive income (loss)
+before reclassifications		10 					— 					(1)					9 		
+Reclassifications to net loss		44 		
+(b)
+			36 		
+(c)
+			— 					80 		
+Other comprehensive income (loss)		54 					36 					(1)					89 		
+At September 30, 2023		$	(626)					$	(1,061)					$	(31)					$	(1,718)		
+																																															
+	Continuing Operations		Discontinued Operations				
+	Cumulative
+Translation
+Adjustments		Net Actuarial
+Loss and Prior
+Service Cost		
+Other Comprehensive Income (Loss) (a)
+		Accumulated
+Other
+Comprehensive Loss
+At December 31, 2021		$	(445)					$	(1,434)					$	(23)					$	(1,902)		
+Other comprehensive loss before
+reclassifications		(452)					— 					(14)					(466)		
+Reclassifications to net earnings
+		— 					49 		
+(c)
+			— 					49 		
+Other comprehensive income (loss)		(452)					49 					(14)					(417)		
+At September 30, 2022		$	(897)					$	(1,385)					$	(37)					$	(2,319)		
+(a) Reflects cumulative translation adjustments.
+(b) Reflects amounts realized within “Gain (loss) from investments” on the Consolidated Statement of Operations in connection with the dilution of our interest in Viacom18 (see Note 7).
+(c) Reflects amortization of net actuarial losses (see Note 11).
+The net actuarial loss and prior service cost related to pension and other postretirement benefit plans included in other comprehensive income (loss) is net of a tax benefit of $12 million and $16 million for the nine months ended September 30, 2023 and 2022, respectively.
+-21-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+10) INCOME TAXES
+The provision for/benefit from income taxes represents federal, state and local, and foreign taxes on earnings (loss) from continuing operations before income taxes and equity in loss of investee companies. For the three months ended September 30, 2023, we recorded a provision for income taxes of $40 million, and for the nine months ended September 30, 2023, we recorded a benefit from income taxes of $436 million, reflecting effective income tax rates of 10.6% and 30.4%, respectively. Included in the third quarter of 2023 is a net discrete tax benefit of $33 million, primarily reflecting the benefit from guidance issued during the quarter by the Internal Revenue Service (“IRS”) that resulted in additional foreign taxes from 2022 being eligible for a foreign tax credit, and amounts realized in connection with the filing of our tax returns in certain international jurisdictions. These items, together with a tax provision of $3 million on other corporate matters, decreased our effective income tax rate by 8.5 percentage points. The tax benefit for the nine months ended September 30, 2023 was primarily the result of a tax benefit of $582 million on programming charges of $2.37 billion. This item, together with a net discrete tax benefit of $67 million, which principally includes the $33 million discrete tax benefit for the quarter discussed above and the resolution of an income tax matter in a foreign jurisdiction, as well as a net tax provision of $49 million on other items identified as affecting the comparability of our results during the period (which include a gain from an investment and restructuring charges and other corporate matters), increased our effective income tax rate by 10.2 percentage points.
+
+For the three and nine months ended September 30, 2022, we recorded a provision for income taxes of $101 million and $264 million, reflecting effective income tax rates of 31.3% and 20.1%, respectively. Included in the provision for income taxes for the third quarter of 2022 is a net discrete tax provision of $9 million, which primarily reflects discrete tax provisions realized in connection with the filing of our tax returns in certain international jurisdictions and from the transfer of subsidiaries in connection with a reorganization of our international operations. These items, together with a net tax benefit of $29 million on other items identified as affecting the comparability of our results during the period (which include charges for restructuring and other corporate matters, and a gain on a disposition) increased our effective income tax rate by 5.0 percentage points. The tax provision for the nine months ended September 30, 2022 included a net discrete tax benefit of $72 million primarily resulting from the transfer of intangible assets between our subsidiaries in connection with a reorganization of our international operations. This item, together with a net tax benefit of $77 million on other items identified as affecting the comparability of our results during the nine-month period (which include charges for restructuring and other corporate matters, a loss on extinguishment of debt, and gains on dispositions) decreased our effective income tax rate by 4.8 percentage points.
+
+The Company and its subsidiaries file income tax returns with the IRS and various state and local and foreign jurisdictions. For periods prior to the merger of Viacom Inc. (“Viacom”) with and into CBS Corporation (“CBS”) (the “Merger”), Viacom and CBS filed separate tax returns. For CBS, we are currently under examination by the IRS for the 2017 and 2018 tax years. For Viacom, we are currently under examination by the IRS for the 2016 through 2019 tax years. For tax returns filed as a merged company, we are currently under examination by the IRS for the 2019 tax year. Various tax years are also currently under examination by state and local and foreign tax authorities. With respect to open tax years in all jurisdictions, we currently do not believe that it is reasonably possible that the reserve for uncertain tax positions will significantly change within the next 12 months; however, it is difficult to predict the final outcome or timing of resolution of any particular tax matter and events could cause our current expectation to change in the future.
+-22-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+11) PENSION AND OTHER POSTRETIREMENT BENEFITS
+The following table presents the components of net periodic cost for our pension and postretirement benefit plans. The service cost component of net periodic cost is presented on the Consolidated Statements of Operations within operating income and all other components of net periodic cost are included within “Other items, net”.
+																							
+	Pension Benefits		Postretirement Benefits
+Three Months Ended September 30,	2023		2022		2023		2022
+Components of net periodic cost (a):
+							
+Service cost	$	— 			$	— 			$	1 			$	1 	
+Interest cost	52 			38 			3 			2 	
+Expected return on plan assets	(32)			(43)			— 			— 	
+Amortization of actuarial loss (gain) (b)
+	20 			24 			(5)			(4)	
+Net periodic cost	$	40 			$	19 			$	(1)			$	(1)	
+																							
+	Pension Benefits		Postretirement Benefits
+Nine Months Ended September 30,	2023		2022		2023		2022
+Components of net periodic cost (a):
+							
+Service cost	$	— 			$	— 			$	1 			$	1 	
+Interest cost	155 			113 			9 			6 	
+Expected return on plan assets	(96)			(129)			— 			— 	
+Amortization of actuarial loss (gain) (b)
+	62 			73 			(14)			(11)	
+Net periodic cost	$	121 			$	57 			$	(4)			$	(4)	
+(a) Amounts reflect our domestic plans only.
+(b) Reflects amounts reclassified from accumulated other comprehensive loss to net earnings (loss).
+During the three months ended September 30, 2023, we contributed $24 million to our qualified pension plan.
+-23-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+12) SEGMENT INFORMATION
+The tables below set forth our financial information by reportable segment. Our operating segments, which are the same as our reportable segments, have been determined in accordance with our internal management structure, which is organized based upon products and services.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues:							
+Advertising	$	1,703 			$	1,973 			$	5,905 			$	6,668 	
+Affiliate and subscription	2,004 			2,000 			6,082 			6,156 	
+Licensing and other	860 			975 			2,930 			3,025 	
+TV Media	4,567 			4,948 			14,917 			15,849 	
+Advertising	430 			363 			1,269 			1,073 	
+Subscription	1,258 			863 			3,594 			2,435 	
+Licensing	4 			— 			4 			— 	
+Direct-to-Consumer	1,692 			1,226 			4,867 			3,508 	
+Advertising	5 			3 			21 			17 	
+Theatrical	377 			231 			735 			1,126 	
+Licensing and other	509 			549 			1,554 			1,627 	
+Filmed Entertainment	891 			783 			2,310 			2,770 	
+Eliminations	(17)			(41)			(80)			(104)	
+Total Revenues	$	7,133 			$	6,916 			$	22,014 			$	22,023 	
+Revenues generated between segments are principally from intersegment arrangements for the distribution of content, rental of studio space, and advertising, as well as licensing revenues earned from third parties who license our content to our internal platforms either through a sub-license or co-production arrangement. These transactions are recorded at market value as if the sales were to third parties and are eliminated in consolidation. For content that is licensed between segments, content costs are allocated across segments based on the relative value of the distribution windows within each segment. Accordingly, no intersegment licensing revenues or profits are recorded by the licensor segment.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Intercompany Revenues:							
+TV Media	$	7 			$	9 			$	28 			$	33 	
+Filmed Entertainment	10 			32 			52 			71 	
+Total Intercompany Revenues	$	17 			$	41 			$	80 			$	104 	
+-24-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+We present operating income excluding depreciation and amortization, stock-based compensation, restructuring charges and other corporate matters, programming charges and gain on dispositions, each where applicable (“Adjusted OIBDA”), as the primary measure of profit and loss for our operating segments in accordance with FASB guidance for segment reporting since it is the primary method used by our management. Stock-based compensation is excluded from our segment measure of profit and loss because it is set and approved by our Board of Directors in consultation with corporate executive management.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Adjusted OIBDA:							
+TV Media	$	1,149 			$	1,231 			$	3,649 			$	4,155 	
+Direct-to-Consumer	(238)			(343)			(1,173)			(1,244)	
+Filmed Entertainment	(49)			41 			(143)			185 	
+Corporate/Eliminations	(103)			(104)			(336)			(320)	
+Stock-based compensation (a)
+	(43)			(39)			(127)			(114)	
+Depreciation and amortization	(105)			(92)			(310)			(282)	
+Programming charges	— 			— 			(2,371)			— 	
+Restructuring and other corporate matters	10 			(169)			(44)			(276)	
+Gain on dispositions	— 			41 			— 			56 	
+Operating income (loss)	621 			566 			(855)			2,160 	
+Interest expense	(232)			(231)			(698)			(701)	
+Interest income	29 			33 			97 			73 	
+Gain (loss) from investments	— 			(9)			168 			(9)	
+Loss on extinguishment of debt	— 			— 			— 			(120)	
+Other items, net	(42)			(36)			(148)			(91)	
+Earnings (loss) from continuing operations before
+   income taxes and equity in loss of investee companies	376 			323 			(1,436)			1,312 	
+(Provision for) benefit from income taxes	(40)			(101)			436 			(264)	
+Equity in loss of investee companies, net of tax	(75)			(58)			(259)			(124)	
+Net earnings (loss) from continuing operations	261 			164 			(1,259)			924 	
+Net earnings from discontinued operations, net of tax	48 			78 			166 			181 	
+Net earnings (loss) (Paramount and noncontrolling interests)	309 			242 			(1,093)			1,105 	
+Net earnings attributable to noncontrolling interests	(14)			(11)			(29)			(22)	
+Net earnings (loss) attributable to Paramount	$	295 			$	231 			$	(1,122)			$	1,083 	
+(a) Stock-based compensation expense of $4 million for the nine months ended September 30, 2023, and $11 million and $13 million for the three and nine months ended September 30, 2022, respectively, is included in “Restructuring and other corporate matters”.
+13) COMMITMENTS AND CONTINGENCIES
+Guarantees
+Letters of Credit and Surety Bonds
+At September 30, 2023, we had outstanding letters of credit and surety bonds of $174 million that were not recorded on the Consolidated Balance Sheet, as well as a $1.9 billion standby letter of credit facility, under which no letters of credit were issued. Letters of credit and surety bonds are primarily used as security against non-performance in the normal course of business under contractual requirements of certain of our commitments. The standby letter of credit facility, which matures in May 2026, is subject to the same principal financial covenant as the Credit Facility (see Note 6).
+-25-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+CBS Television City
+In connection with the sale of the CBS Television City property and sound stage operation (“CBS Television City”) in 2019, we guaranteed a specified level of cash flows to be generated by the business during the first five years following the completion of the sale. Included in “Other current liabilities” on the Consolidated Balance Sheet at September 30, 2023 is a liability totaling $26 million, reflecting the present value of the remaining estimated amount payable under the guarantee obligation.
+
+Lease Guarantees
+We have certain indemnification obligations with respect to leases primarily associated with the previously discontinued operations of Famous Players Inc. These lease commitments totaled $11 million at September 30, 2023, and are presented within “Other liabilities” on the Consolidated Balance Sheet. The amount of lease commitments varies over time depending on the expiration or termination of individual underlying leases, or the related indemnification obligation, and foreign exchange rates, among other things. We may also have exposure for certain other expenses related to the leases, such as property taxes and common area maintenance. We believe our accrual is sufficient to meet any future obligations based on our consideration of available financial information, the lessees’ historical performance in meeting their lease obligations and the underlying economic factors impacting the lessees’ business models.
+
+Other
+In the course of our business, we both provide and receive indemnities which are intended to allocate certain risks associated with business transactions. Similarly, we may remain contingently liable for various obligations of a business that has been divested in the event that a third party does not live up to its obligations under an indemnification obligation. We record a liability for our indemnification obligations and other contingent liabilities when probable and reasonably estimable.
+
+Legal Matters
+General
+On an ongoing basis, we vigorously defend ourselves in numerous lawsuits and proceedings and respond to various investigations and inquiries from federal, state, local and international authorities (collectively, “Litigation”). Litigation may be brought against us without merit, is inherently uncertain and always difficult to predict. However, based on our understanding and evaluation of the relevant facts and circumstances, we believe that the following matters are not likely, in the aggregate, to result in a material adverse effect on our business, financial condition and results of operations.
+
+Stockholder Matters
+Litigation Relating to the Merger
+Beginning in February 2020, three purported CBS stockholders filed separate derivative and/or putative class action lawsuits in the Court of Chancery of the State of Delaware (the “Delaware Chancery Court”). In March 2020, the Delaware Chancery Court consolidated the three lawsuits and appointed Bucks County Employees Retirement Fund and International Union of Operating Engineers of Eastern Pennsylvania and Delaware as co-lead plaintiffs for the consolidated action captioned In re CBS Corporation Stockholder Class Action and Derivative Litigation (the “CBS Litigation”). In April 2020, the lead plaintiffs filed a Verified Consolidated Class Action and Derivative Complaint (as used in this paragraph, the “Complaint”) against Shari E. Redstone, National Amusements, Inc., Sumner M. Redstone National Amusements Trust, additional members of the CBS Board of
+-26-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Directors (including Candace K. Beinecke, Barbara M. Byrne, Gary L. Countryman, Linda M. Griego, Robert N. Klieger, Martha L. Minow, Susan Schuman, Frederick O. Terrell and Strauss Zelnick), former CBS President and Acting Chief Executive Officer Joseph Ianniello and the Company as nominal defendant. The Complaint alleged breaches of fiduciary duties in connection with the negotiation and approval of an Agreement and Plan of Merger, dated as of August 13, 2019, between CBS and Viacom (as amended, the “Merger Agreement”). The Complaint also alleged waste and unjust enrichment in connection with certain aspects of Mr. Ianniello’s compensation awards. The Complaint sought unspecified damages, costs and expenses, as well as other relief. In December 2022, the Delaware Chancery Court dismissed the fiduciary duty claim against Mr. Klieger.
+
+In May 2023, the parties to the CBS Litigation entered into a settlement agreement that provided for, among other things, the final dismissal of the CBS Litigation in exchange for a settlement payment to the Company in the amount of $167.5 million, less administrative costs and plaintiffs’ counsels’ fees and expenses. In September 2023, the Delaware Chancery Court approved the settlement and dismissed the CBS Litigation with prejudice. In October 2023, the Company received the settlement payment in the amount of $120 million, which reflects the settlement of $167.5 million after a deduction was made for administrative costs and plaintiffs’ counsels’ fees and expenses, and accordingly, we will recognize a gain of $120 million during the fourth quarter of 2023.
+
+Beginning in November 2019, four purported Viacom stockholders filed separate putative class action lawsuits in the Delaware Chancery Court. In January 2020, the Delaware Chancery Court consolidated the four lawsuits. In February 2020, the Delaware Chancery Court appointed California Public Employees’ Retirement System (“CalPERS”) as lead plaintiff for the consolidated action. Subsequently, in February 2020, CalPERS, together with Park Employees’ and Retirement Board Employees’ Annuity and Benefit Fund of Chicago and Louis M. Wilen, filed a First Amended Verified Class Action Complaint (as used in this paragraph, the “Complaint”) against NAI, NAI Entertainment Holdings LLC, Shari E. Redstone, the members of the special transaction committee of the Viacom Board of Directors (comprised of Thomas J. May, Judith A. McHale, Ronald L. Nelson and Nicole Seligman) and our President and Chief Executive Officer and director, Robert M. Bakish (as used in this paragraph, the “Viacom Litigation”). The Complaint alleged breaches of fiduciary duties to Viacom stockholders in connection with the negotiation and approval of the Merger Agreement. The Complaint sought unspecified damages, costs and expenses, as well as other relief. In December 2020, the Delaware Chancery Court dismissed the claims against Mr. Bakish, while allowing the claims against the remaining defendants to proceed.
+
+In March 2023, the parties to the Viacom Litigation entered into a settlement agreement that provided for, among other things, the final dismissal of the Viacom Litigation in exchange for a settlement payment in the amount of $122.5 million, which has been fully paid. In July 2023, the Delaware Chancery Court granted approval of the settlement and dismissed the Viacom Litigation with prejudice.
+
+Litigation Related to Stock Offerings
+In August 2021, Camelot Event Driven Fund filed a putative securities class action lawsuit in New York Supreme Court, County of New York, and in November 2021, an amended complaint was filed that, among other changes, added an additional named plaintiff (as used in this paragraph, the “Complaint”). The Complaint is purportedly on behalf of investors who purchased shares of the Company’s Class B Common Stock and 5.75% Series A Mandatory Convertible Preferred Stock pursuant to public securities offerings completed in March 2021, and was filed against the Company, certain senior executives, members of our Board of Directors, and the underwriters involved in the offerings. The Complaint asserts violations of federal securities law and alleges that the offering documents contained material misstatements and omissions, including through an alleged failure to adequately disclose certain total return swap transactions involving Archegos Capital Management referenced to our securities and related alleged risks to the Company’s stock price. In December 2021, the plaintiffs filed a stipulation seeking the voluntary dismissal without prejudice of the outside director defendants from the lawsuit, which the Court
+-27-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+subsequently ordered. On the same date, the defendants filed motions to dismiss the lawsuit, which were heard in January 2023. In February 2023, the Court dismissed all claims against the Company while allowing the claims against the underwriters to proceed. The plaintiffs and underwriter defendants have appealed the ruling.
+
+Litigation Related to Television Station Owners
+In September 2019, the Company was added as a defendant in a multi-district putative class action lawsuit filed in the United States District Court for the Northern District of Illinois. The lawsuit was filed by parties that claim to have purchased broadcast television spot advertising beginning about January 2014 on television stations owned by one or more of the defendant television station owners and alleges the sharing of allegedly competitively sensitive information among such television stations in alleged violation of the Sherman Antitrust Act. The action, which names the Company among fourteen total defendants, seeks monetary damages, attorneys’ fees, costs and interest as well as injunctions against the allegedly unlawful conduct. We reached an agreement with the plaintiffs to settle the lawsuit. The settlement, which includes no admission of liability or wrongdoing by the Company, is subject to Court approval. In August 2023, the Court granted preliminary approval of the settlement.
+
+Claims Related to Former Businesses
+Asbestos
+We are a defendant in lawsuits claiming various personal injuries related to asbestos and other materials, which allegedly occurred as a result of exposure caused by various products manufactured by Westinghouse, a predecessor, generally prior to the early 1970s. Westinghouse was neither a producer nor a manufacturer of asbestos. We are typically named as one of a large number of defendants in both state and federal cases. In the majority of asbestos lawsuits, the plaintiffs have not identified which of our products is the basis of a claim. Claims against us in which a product has been identified most commonly relate to allegations of exposure to asbestos-containing insulating material used in conjunction with turbines and electrical equipment.
+
+Claims are frequently filed and/or settled in groups, which may make the amount and timing of settlements, and the number of pending claims, subject to significant fluctuation from period to period. We do not report as pending those claims on inactive, stayed, deferred or similar dockets that some jurisdictions have established for claimants who allege minimal or no impairment. As of September 30, 2023, we had pending approximately 20,670 asbestos claims, as compared with approximately 21,580 as of December 31, 2022. During the third quarter of 2023, we received approximately 690 new claims and closed or moved to an inactive docket approximately 770 claims. We report claims as closed when we become aware that a dismissal order has been entered by a court or when we have reached agreement with the claimants on the material terms of a settlement. Settlement costs depend on the seriousness of the injuries that form the basis of the claims, the quality of evidence supporting the claims and other factors. Our total costs for the years 2022 and 2021 for settlement and defense of asbestos claims after insurance recoveries and net of tax were approximately $57 million and $63 million, respectively. Our costs for settlement and defense of asbestos claims may vary year to year and insurance proceeds are not always recovered in the same period as the insured portion of the expenses.
+
+Filings include claims for individuals suffering from mesothelioma, a rare cancer, the risk of which is allegedly increased by exposure to asbestos; lung cancer, a cancer which may be caused by various factors, one of which is alleged to be asbestos exposure; other cancers, and conditions that are substantially less serious, including claims brought on behalf of individuals who are asymptomatic as to an allegedly asbestos-related disease. The predominant number of pending claims against us are non-cancer claims. It is difficult to predict future asbestos liabilities, as events and circumstances may impact the estimate of our asbestos liabilities, including, among others, the number and types of claims and average cost to resolve such claims. We record an accrual for a loss
+-28-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+contingency when it is both probable that a liability has been incurred and when the amount of the loss can be reasonably estimated. Our liability estimate is based upon many factors, including the number of outstanding claims, estimated average cost per claim, the breakdown of claims by disease type, historic claim filings, costs per claim of resolution and the filing of new claims, as well as consultation with a third party firm on trends that may impact our future asbestos liability. While we believe that our accrual for matters related to our predecessor operations, including environmental and asbestos, are adequate, there can be no assurance that circumstances will not change in future periods, and as a result our actual liabilities may be higher or lower than our accrual.
+
+Other 
+From time to time, we receive claims from federal and state environmental regulatory agencies and other entities asserting that we are or may be liable for environmental cleanup costs and related damages principally relating to our historical and predecessor operations. In addition, from time to time we receive personal injury claims including toxic tort and product liability claims (other than asbestos) arising from our historical operations and predecessors.
+14) SUPPLEMENTAL FINANCIAL INFORMATION
+Supplemental Cash Flow Information
+											
+	Nine Months Ended
+	September 30,
+	2023		2022
+Cash paid for interest	$	696 			$	755 	
+			
+Cash paid (received) for income taxes:			
+Continuing operations	$	(17)			$	31 	
+Discontinued operations	$	19 			$	11 	
+			
+Noncash additions to operating lease assets	$	100 			$	127 	
+Lease Income
+We enter into operating leases for the use of our owned production facilities and office buildings. Lease payments received under these agreements consist of fixed payments for the rental of space and certain building operating costs, as well as variable payments based on usage of production facilities and services, and escalating costs of building operations. We recorded total lease income, including both fixed and variable amounts, of $5 million and $27 million for the three and nine months ended September 30, 2023, respectively, and $16 million and $50 million for the three and nine months ended September 30, 2022, respectively.
+
+-29-
+
+
+PARAMOUNT GLOBAL AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+(Tabular dollars in millions, except per share amounts)
+Restructuring and Other Corporate Matters
+During the three and nine months ended September 30, 2023 and 2022, we recorded the following restructuring charges and other corporate matters.
+
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+TV Media	$	— 			$	77 			$	32 			$	86 	
+Direct-to-Consumer	— 			— 			3 			1 	
+Filmed Entertainment	— 			— 			5 			18 	
+Corporate	— 			— 			14 			— 	
+Severance (a)
+	— 			77 			54 			105 	
+Exit costs	— 			8 			— 			8 	
+Restructuring charges 	— 			85 			54 			113 	
+Other corporate matters	(10)			84 			(10)			163 	
+Restructuring and other corporate matters	$	(10)			$	169 			$	44 			$	276 	
+(a) Severance costs include the accelerated vesting of stock-based compensation.
+Following our 2022 operating segment realignment and as we integrated Showtime into Paramount+, we implemented further initiatives to streamline and transform our operations, and as a result recorded restructuring charges of $54 million for associated severance costs during the second quarter of 2023.
+
+During the three and nine months ended September 30, 2022, we recorded restructuring charges of $85 million and $113 million, respectively, which were comprised of severance costs and the impairment of lease assets in each period. The severance costs were primarily associated with management changes following the operating segment realignment noted above. The lease impairments related to lease assets that we ceased use of with the intent to sublease in connection with initiatives to reduce our real estate footprint in New York City.
+
+At September 30, 2023 and December 31, 2022, our restructuring liability was $214 million and $302 million, respectively, and was recorded in “Other current liabilities” and “Other liabilities” on the Consolidated Balance Sheets. During the nine months ended September 30, 2023, we made payments for restructuring of $118 million. The restructuring liability at September 30, 2023, which principally relates to severance payments, is expected to be substantially paid by the end of 2024.
+
+In addition, during the three months ended September 30, 2023, we recorded a benefit of $10 million in other corporate matters for an insurance recovery related to litigation described under Legal Matters—Stockholder Matters in Note 13.
+
+During the three and nine months ended September 30, 2022, we recorded charges for other corporate matters of $84 million and $163 million, respectively, of which $77 million and $117 million, respectively, were associated with litigation described under Legal Matters—Stockholder Matters in Note 13. Also included in other corporate matters were charges of $7 million and $46 million for the three and nine months ended September 30, 2022, respectively, recorded following Russia’s invasion of Ukraine, principally to reserve against amounts due from counterparties in Russia, Belarus and Ukraine.
+
+-30-
+
+					
+Item 2.	Management’s Discussion and Analysis of Results of Operations and Financial Condition.
+	
+(Tabular dollars in millions, except per share amounts)
+Management’s discussion and analysis of the results of operations and financial condition of Paramount Global should be read in conjunction with the consolidated financial statements and related notes in our Annual Report on Form 10-K for the year ended December 31, 2022. References in this document to “Paramount,” the “Company,” “we,” “us” and “our” refer to Paramount Global.
+
+Significant components of management’s discussion and analysis of results of operations and financial condition include:
+•Overview—Summary of our business and operational highlights.
+•Consolidated Results of Operations—Analysis of our results on a consolidated basis for the three and nine months ended September 30, 2023 compared with the three and nine months ended September 30, 2022.
+•Segment Results of Operations—Analysis of our results on a reportable segment basis for the three and nine months ended September 30, 2023 compared with the three and nine months ended September 30, 2022.
+•Liquidity and Capital Resources—Discussion of our cash flows, including sources and uses of cash, for the nine months ended September 30, 2023 and September 30, 2022; and of our outstanding debt as of September 30, 2023.
+•Legal Matters—Discussion of legal matters to which we are involved.
+
+
+
+
+-31-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Overview
+Operational Highlights - Three Months Ended September 30, 2023 versus Three Months Ended September 30, 2022
+																										
+Consolidated Results of Operations					Increase/(Decrease)	
+Three Months Ended September 30,	2023		2022		$		%	
+GAAP:								
+Revenues	$	7,133 			$	6,916 			$	217 			3 	%	
+Operating income 	$	621 			$	566 			$	55 			10 	%	
+Net earnings from continuing operations
+   attributable to Paramount	$	247 			$	153 			$	94 			61 	%	
+Diluted EPS from continuing operations 	$	.36 			$	.21 			$	.15 			71 	%	
+								
+								
+Non-GAAP: (a)
+								
+Adjusted OIBDA	$	716 			$	786 			$	(70)			(9)	%	
+Adjusted net earnings from continuing operations
+   attributable to Paramount	$	207 			$	270 			$	(63)			(23)	%	
+Adjusted diluted EPS from continuing operations	$	.30 			$	.39 			$	(.09)			(23)	%	
+(a) Certain items identified as affecting comparability are excluded in non-GAAP results. See “Reconciliation of Non-GAAP Measures” for details of these items and reconciliations of non-GAAP results to the most directly comparable financial measures in accordance with accounting principles generally accepted in the United States (“GAAP”).
+For the three months ended September 30, 2023, revenues increased 3% to $7.13 billion, reflecting revenue growth from our streaming services, led by Paramount+. The growth was partially offset by lower revenue from our linear networks, mainly resulting from weakness in the global advertising market.
+
+Operating income increased 10% to $621 million for the three months ended September 30, 2023. The operating income comparison was impacted by $169 million of charges for restructuring and other corporate matters in 2022. Adjusted operating income before depreciation and amortization (“Adjusted OIBDA”), which excludes these charges as well as other items described under Reconciliation of Non-GAAP Measures, decreased 9% as the increase in revenues was more than offset by higher costs, primarily associated with the distribution of our films and streaming services.
+
+For the three months ended September 30, 2023, net earnings from continuing operations attributable to Paramount increased $94 million to $247 million and diluted earnings per share (“EPS”) from continuing operations increased $.15 to $.36 compared with the prior-year period. Adjusted net earnings from continuing operations attributable to Paramount and adjusted diluted EPS from continuing operations, which exclude the items impacting the comparability of operating income as well as other items described under Reconciliation of Non-GAAP Measures, decreased $63 million and $.09 per diluted share, respectively. These declines reflect the lower Adjusted OIBDA and a higher loss from our equity-method investments.
+
+Labor Strikes
+In May 2023, the Writers Guild of America (“WGA”) commenced an industry-wide strike following the expiration of its collective bargaining agreement with the Alliance of Motion Picture and Television Producers (“AMPTP”). In July 2023, the Screen Actors Guild-American Federation of Television and Radio Artists (“SAG-AFTRA”) also commenced an industry-wide strike after the expiration of its collective bargaining agreement with the AMPTP.
+-32-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+These strikes resulted in temporary shutdowns of production on certain of our television and film programming. The WGA strike has ended; however, the SAG-AFTRA strike is ongoing and as a result the timing of resuming production and the impact on our future results and cash flows remains uncertain.
+
+Operational Highlights - Nine Months Ended September 30, 2023 versus Nine Months Ended September 30, 2022
+																										
+Consolidated Results of Operations					Increase/(Decrease)	
+Nine Months Ended September 30,	2023		2022		$		%	
+GAAP:								
+Revenues	$	22,014 			$	22,023 			$	(9)			— 	%	
+Operating income (loss)	$	(855)			$	2,160 			$	(3,015)			n/m	
+Net earnings (loss) from continuing operations
+attributable to Paramount
+	$	(1,288)			$	902 			$	(2,190)			n/m	
+Diluted EPS from continuing operations	$	(2.04)			$	1.32 			$	(3.36)			n/m	
+								
+Non-GAAP: (a)
+								
+Adjusted OIBDA
+	$	1,870 			$	2,662 			$	(792)			(30)	%	
+Adjusted net earnings from continuing operations
+attributable to Paramount
+	$	359 			$	1,102 			$	(743)			(67)	%	
+Adjusted diluted EPS from continuing operations	$	.48 			$	1.63 			$	(1.15)			(71)	%	
+n/m - not meaningful
+(a) Certain items identified as affecting comparability are excluded in non-GAAP results. See “Reconciliation of Non-GAAP Measures” for details of these items and reconciliations of non-GAAP results to the most directly comparable financial measures in accordance with GAAP.
+For the nine months ended September 30, 2023, revenues decreased slightly to $22.01 billion, as growth in revenues from our streaming services, led by Paramount+, was offset by lower revenues from our theatrical releases, linear networks, and content licensing. The decline for our linear networks principally reflects weakness in the global advertising market.
+
+We reported an operating loss of $855 million for the nine months ended September 30, 2023 compared with operating income of $2.16 billion for the comparable prior-year period. The comparison was impacted by programming charges of $2.37 billion recorded in 2023. Adjusted OIBDA, which excludes these charges, as well as other items described under Reconciliation of Non-GAAP Measures, decreased 30%, driven by the decline in linear revenues and the timing and mix of theatrical releases in each year, partially offset by improved results for our streaming services.
+
+For the nine months ended September 30, 2023, we reported a net loss from continuing operations attributable to Paramount of $1.29 billion, or $2.04 per diluted share, compared with net earnings from continuing operations attributable to Paramount of $902 million, or $1.32 per diluted share, for the same prior-year period. The comparison was impacted by the programming charges noted above and the other items described under Reconciliation of Non-GAAP Measures. These items have been excluded in adjusted net earnings from continuing operations attributable to Paramount and adjusted diluted EPS, which decreased $743 million and $1.15 per diluted share, respectively, primarily reflecting the lower tax-effected Adjusted OIBDA and losses from our investment in SkyShowtime.
+-33-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Reconciliation of Non-GAAP Measures
+Results for the three and nine months ended September 30, 2023 and 2022 included certain items identified as affecting comparability. Adjusted OIBDA, adjusted earnings from continuing operations before income taxes, adjusted provision for income taxes, adjusted net earnings from continuing operations attributable to Paramount, and adjusted diluted EPS from continuing operations (together, the “adjusted measures”) exclude the impact of these items and are measures of performance not calculated in accordance with GAAP. We use these measures to, among other things, evaluate our operating performance. These measures are among the primary measures used by management for planning and forecasting of future periods, and they are important indicators of our operational strength and business performance. In addition, we use Adjusted OIBDA to, among other things, value prospective acquisitions. We believe these measures are relevant and useful for investors because they allow investors to view performance in a manner similar to the method used by our management; provide a clearer perspective on our underlying performance; and make it easier for investors, analysts and peers to compare our operating performance to other companies in our industry and to compare our year-over-year results.
+
+Because the adjusted measures are measures of performance not calculated in accordance with GAAP, they should not be considered in isolation of, or as a substitute for, operating income (loss), earnings (loss) from continuing operations before income taxes, (provision for) benefit from income taxes, net earnings (loss) from continuing operations attributable to Paramount or diluted EPS from continuing operations, as applicable, as indicators of operating performance. These measures, as we calculate them, may not be comparable to similarly titled measures employed by other companies.
+
+The following tables reconcile the adjusted measures to their most directly comparable financial measures in accordance with GAAP.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Operating income (loss) (GAAP)	$	621 			$	566 			$	(855)			$	2,160 	
+Depreciation and amortization 	105 			92 			310 			282 	
+Programming charges (a)
+	— 			— 			2,371 			— 	
+Restructuring and other corporate matters (a)
+	(10)			169 			44 			276 	
+Gain on dispositions (a)
+	— 			(41)			— 			(56)	
+Adjusted OIBDA (Non-GAAP)	$	716 			$	786 			$	1,870 			$	2,662 	
+(a) See notes on the following tables for additional information on items affecting comparability.
+-34-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+																																															
+	Three Months Ended September 30, 2023
+	Earnings from Continuing Operations Before Income Taxes 		Provision for Income Taxes		Net Earnings from Continuing Operations Attributable to Paramount		Diluted EPS from Continuing Operations
+Reported (GAAP)		$	376 					$	(40)					$	247 					$	.36 		
+Items affecting comparability:															
+Other corporate matters (a)
+		(10)					3 					(7)					(.01)		
+Discrete tax items (b)
+		— 					(33)					(33)					(.05)		
+Adjusted (Non-GAAP)		$	366 					$	(70)					$	207 					$	.30 		
+(a) Reflects a benefit from an insurance recovery related to litigation described under Legal Matters—Stockholder Matters.
+(b) Primarily reflects the benefit from guidance issued in the third quarter of 2023 by the Internal Revenue Service (“IRS”) that resulted in additional foreign taxes from 2022 being eligible for a foreign tax credit, and amounts realized in connection with the filing of our tax returns in certain international jurisdictions.
+																																															
+	Three Months Ended September 30, 2022
+	Earnings from Continuing Operations Before Income Taxes 		Provision for Income Taxes		Net Earnings from Continuing Operations Attributable to Paramount		Diluted EPS from Continuing Operations
+Reported (GAAP)		$	323 					$	(101)					$	153 					$	.21 		
+Items affecting comparability:															
+Restructuring and other corporate matters (a)
+		169 					(38)					131 					.20 		
+Gain on dispositions (b)
+		(41)					10 					(31)					(.05)		
+Loss from investments (c)
+		9 					(1)					8 					.01 		
+Discrete tax items (d)
+		— 					9 					9 					.02 		
+Adjusted (Non-GAAP)		$	460 					$	(121)					$	270 					$	.39 		
+(a) Comprised of $85 million for restructuring consisting of severance costs, which were primarily associated with management changes following our operating segment realignment, and lease impairments; $77 million associated with litigation described under Legal Matters—Stockholder Matters; and $7 million related to the suspension of operations in Russia.
+(b) Reflects a gain recognized upon the contribution of certain assets of Paramount+ in the Nordics to SkyShowtime, our streaming joint venture with Comcast Corporation.
+(c) Reflects a loss on the sale of a 37.5% interest in The CW to Nexstar Media Inc. and an impairment of an investment.
+(d) Primarily reflects discrete tax provisions realized in connection with the filing of our tax returns in certain international jurisdictions and from the transfer of subsidiaries in connection with a reorganization of our international operations.
+-35-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+																																															
+	Nine Months Ended September 30, 2023
+	Earnings (Loss) from Continuing Operations Before Income Taxes 		Benefit from (Provision for) Income Taxes		Net Earnings (Loss) from Continuing Operations Attributable to Paramount		Diluted EPS from Continuing Operations
+Reported (GAAP)		$	(1,436)					$	436 					$	(1,288)					$	(2.04)		
+Items affecting comparability:															
+Programming charges (a)
+		2,371 					(582)					1,789 					2.74 		
+Restructuring and other corporate matters (b)
+		44 					(11)					33 					.05 		
+Gain from investment (c)
+		(168)					60 					(108)					(.16)		
+Discrete tax items (d)
+		— 					(67)					(67)					(.11)		
+Adjusted (Non-GAAP)		$	811 					$	(164)					$	359 					$	.48 		
+(a) Comprised of programming charges recorded in connection with the integration of Showtime into Paramount+ and initiatives to rationalize and right-size our international operations to align with our streaming strategy and close or globalize certain of our international channels. During the first half of 2023, we reviewed our content portfolio and as a result changed the strategy for certain content. These changes led to content being removed from our platforms or abandoned, the write-off of development costs, distribution changes, and termination of programming agreements.
+(b) Consists of severance costs recorded during the second quarter of 2023 associated with the implementation of initiatives to transform and streamline our operations following our 2022 operating segment realignment and as we integrated Showtime into Paramount+, partially offset by a benefit in the third quarter of 2023 from an insurance recovery related to litigation described under Legal Matters—Stockholder Matters.
+(c) Reflects a gain recognized on our retained interest in Viacom18 following the discontinuance of equity method accounting resulting from the dilution of our interest from 49% to 13%.
+(d) Primarily reflects tax benefits from the resolution of an income tax matter in a foreign jurisdiction, guidance issued in the third quarter of 2023 by the IRS that resulted in additional foreign taxes from 2022 being eligible for a foreign tax credit, and amounts realized in connection with the filing of our tax returns in certain international jurisdictions.
+-36-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+																																															
+	Nine Months Ended September 30, 2022
+	Earnings from Continuing Operations Before Income Taxes 		Provision for Income Taxes		Net Earnings from Continuing Operations Attributable to Paramount		Diluted EPS from Continuing Operations
+Reported (GAAP)		$	1,312 					$	(264)					$	902 					$	1.32 		
+Items affecting comparability:															
+Restructuring and other corporate matters (a)
+		276 					(62)					214 					.33 		
+Gain on dispositions (b)
+		(56)					14 					(42)					(.06)		
+Loss from investments (c)
+		9 					(1)					8 					.01 		
+Loss on extinguishment of debt		120 					(28)					92 					.14 		
+Discrete tax items (d)
+		— 					(72)					(72)					(.11)		
+Adjusted (Non-GAAP)		$	1,661 					$	(413)					$	1,102 					$	1.63 		
+(a) Comprised of charges of $113 million for restructuring consisting of severance costs, which were primarily associated with management changes following our operating segment realignment, and lease impairments; $117 million associated with litigation described under Legal Matters—Stockholder Matters; and $46 million recorded following Russia’s invasion of Ukraine, principally to reserve against amounts due from counterparties in Russia, Belarus and Ukraine.
+(b) Reflects a $41 million gain recognized upon the contribution of certain assets of Paramount+ in the Nordics to SkyShowtime as well as gains totaling $15 million from the sale of international intangible assets and a working capital adjustment to the gain from the fourth quarter 2021 sale of CBS Studio Center.
+(c) Reflects a loss on the sale of a 37.5% interest in The CW and an impairment of an investment.
+(d) Primarily reflects a deferred tax benefit resulting from the transfer of intangible assets between our subsidiaries in connection with a reorganization of our international operations.
+-37-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Consolidated Results of Operations
+Three and Nine Months Ended September 30, 2023 versus Three and Nine Months Ended September 30, 2022
+Revenues
+																																						
+	Three Months Ended September 30,	
+			% of Total
+Revenues				% of Total
+Revenues		Increase/(Decrease)	
+Revenues by Type	2023			2022			$		%	
+Advertising
+	$	2,133 			30 	%		$	2,337 			34 	%		$	(204)			(9)	%	
+Affiliate and subscription
+	3,262 			46 			2,863 			41 			399 			14 		
+Theatrical	377 			5 			231 			3 			146 			63 		
+Licensing and other	1,361 			19 			1,485 			22 			(124)			(8)		
+Total Revenues	$	7,133 			100 	%		$	6,916 			100 	%		$	217 			3 	%	
+																																																		
+	Nine Months Ended September 30,	
+			% of Total
+Revenues				% of Total
+Revenues		Increase/(Decrease)	
+Revenues by Type	2023			2022			$		%	
+Advertising
+	$	7,179 				33 	%			$	7,746 				35 	%			$	(567)			(7)	%	
+Affiliate and subscription
+	9,676 				44 				8,591 				39 				1,085 			13 		
+Theatrical	735 				3 				1,126 				5 				(391)			(35)		
+Licensing and other	4,424 				20 				4,560 				21 				(136)			(3)		
+Total Revenues	$	22,014 				100 	%			$	22,023 				100 	%			$	(9)			— 	%	
+Advertising
+For the three and nine months ended September 30, 2023, advertising revenues decreased 9% and 7%, respectively, driven by a decline in linear advertising reflecting continued weakness in the global advertising market, partially offset by higher advertising revenues for our streaming services. In addition, foreign exchange rate changes negatively impacted the total advertising revenue comparison by 2 percentage points and 1 percentage point for the three- and nine-month periods, respectively.
+
+Affiliate and Subscription
+Affiliate and subscription revenues are principally comprised of affiliate fees received from multichannel video programming distributors (MVPDs), including virtual MVPDs (vMVPDs) which distribute their services via streaming, for carriage of our cable networks (cable affiliate fees) and owned television stations (retransmission fees), fees received from television stations for their affiliation with the CBS Television Network (reverse compensation), and subscription fees for our streaming services.
+
+For the three and nine months ended September 30, 2023, affiliate and subscription revenues increased 14% and 13%, respectively, primarily driven by growth in subscribers for Paramount+ to 63.4 million at September 30, 2023 from 46.0 million at September 30, 2022, as well as higher revenues from pay-per-view boxing events. These increases were partially offset by lower affiliate fees for our linear networks.
+
+Theatrical
+For the three months ended September 30, 2023, theatrical revenues increased 63%, primarily reflecting the third quarter 2023 releases of Mission: Impossible — Dead Reckoning Part One and Teenage Mutant Ninja Turtles: Mutant Mayhem. Theatrical revenues in the prior-year period were principally from the continued success of Top
+-38-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Gun: Maverick, which was released in the second quarter of 2022. Theatrical revenues for the nine months ended September 30, 2023 decreased 35%, reflecting the comparison against the strong performance of Top Gun: Maverick in the second and third quarters of 2022, partially offset by theatrical revenues from the previously mentioned third quarter 2023 releases.
+
+Licensing and Other
+Licensing and other revenues are principally comprised of fees from the licensing of the rights to exhibit our internally-produced television and film programming on various platforms in the secondary market after its initial exhibition on our owned or third-party platforms; license fees from content produced or distributed for third parties; home entertainment revenues, which include the viewing of our content on a transactional basis through transactional video-on-demand (TVOD) and electronic sell-through services and the sale and distribution of our content through DVDs and Blu-ray discs to wholesale and retail partners; fees from the use of our trademarks and brands for consumer products, recreation and live events; and revenues from the rental of production facilities.
+
+For the three and nine months ended September 30, 2023, licensing and other revenues decreased 8% and 3%, respectively, primarily reflecting lower revenues from content produced for third parties. Content available for licensing has been and may continue to be impacted by temporary production shutdowns as a result of labor strikes.
+
+Operating Expenses
+																																																		
+	Three Months Ended September 30,	
+			% of Operating Expenses				% of Operating Expenses		Increase/(Decrease)	
+Operating Expenses by Type	2023			2022			$		%	
+Content costs	$	3,548 				76 	%			$	3,527 				79 	%			$	21 			1 	%	
+Distribution and other	1,133 				24 				933 				21 				200 			21 		
+Total Operating Expenses	$	4,681 				100 	%			$	4,460 				100 	%			$	221 			5 	%	
+																																																		
+	Nine Months Ended September 30,	
+			% of Operating Expenses				% of Operating Expenses		Increase/(Decrease)	
+Operating Expenses by Type	2023			2022			$		%	
+Content costs	$	11,589 				78 	%			$	11,475 				80 	%			$	114 			1 	%	
+Distribution and other	3,283 				22 				2,887 				20 				396 			14 		
+Total Operating Expenses	$	14,872 				100 	%			$	14,362 				100 	%			$	510 			4 	%	
+Content Costs
+Content costs include the amortization of costs of internally-produced television and theatrical film content; amortization of acquired program rights; other television production costs, including on-air talent; and participation and residuals expenses, which reflect amounts owed to talent and other participants in our content pursuant to contractual and collective bargaining arrangements.
+
+For the three months ended September 30, 2023, content costs increased 1%, primarily driven by increased investment in our streaming services, costs associated with pay-per-view boxing events and theatrical releases, partially offset by lower costs from the decline in licensing revenues. For the nine-month period, the 1% increase primarily reflects increased investment in our streaming services, partially offset by lower costs associated with theatrical releases and licensing revenues.
+-39-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Content costs for the three and nine months ended September 30, 2023, include $57 million of incremental costs incurred to retain our production capabilities for certain of the television and film productions that have been delayed as a result of the labor strikes. The magnitude of incremental costs during the fourth quarter of 2023 will depend on the duration of the SAG-AFTRA strike.
+
+Distribution and Other
+Distribution and other operating expenses primarily include costs relating to the distribution of our content, including print and advertising for theatrical releases and costs for third-party distribution; compensation; revenue-sharing costs to television stations affiliated with the CBS Television Network; and other ancillary and overhead costs associated with our operations.
+
+For the three and nine months ended September 30, 2023, distribution and other expenses increased 21% and 14%, respectively, primarily reflecting higher costs associated with theatrical releases and the growth of our streaming services, including costs for third-party distribution, revenue sharing, and compensation.
+
+Programming Charges
+During the first half of 2023, in connection with the integration of Showtime into Paramount+ across both streaming and linear platforms, we performed a comprehensive strategic review of the combined content portfolio of Showtime and Paramount+. Additionally, during the first quarter of 2023, we commenced a review of our international content portfolio in connection with initiatives to rationalize and right-size our international operations to align with our streaming strategy, and close or globalize certain of our international channels. As a result, we changed the strategy for certain content, which led to content being removed from our platforms or abandoned, the write-off of development costs, distribution changes, and termination of programming agreements. Accordingly, during the first half of 2023 we recorded programming charges on the Consolidated Statement of Operations relating to these actions. These charges, which totaled $2.37 billion, were comprised of $1.97 billion for the impairment of content to its estimated fair value, as well as $402 million for development cost write-offs and contract termination costs.
+
+Selling, General and Administrative Expenses
+																																																											
+	Three Months Ended September 30,		Nine Months Ended September 30,	
+					Increase/(Decrease)						Increase/(Decrease)
+	2023		2022			$		%			2023		2022			$		%	
+Selling, general and
+   administrative expenses	$	1,736 			$	1,670 				$	66 			4 	%			$	5,272 			$	4,999 				$	273 			5 	%	
+Selling, general and administrative (“SG&A”) expenses include costs incurred for advertising, marketing, occupancy, professional service fees, and back office support, including employee compensation and technology. For the three and nine months ended September 30, 2023, SG&A expenses increased 4% and 5%, respectively, driven by higher employee costs, including for incentive compensation and to support the growth of our streaming services. The increase for the three months was partially offset by lower advertising and marketing costs.
+
+-40-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Depreciation and Amortization
+																																																								
+	Three Months Ended September 30,		Nine Months Ended September 30,	
+					Increase/(Decrease)							Increase/(Decrease)		
+	2023		2022		$		%			2023		2022		$		%		
+Depreciation and
+   amortization	$	105 			$	92 			$	13 			14 	%			$	310 			$	282 			$	28 			10 	%		
+For the three and nine months ended September 30, 2023 depreciation and amortization increased 14% and 10%, respectively, primarily reflecting higher depreciation for software related to the unification and evolution of our systems and platforms.
+
+Restructuring and Other Corporate Matters
+During the three and nine months ended September 30, 2023 and 2022, we recorded the following restructuring charges and other corporate matters.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+TV Media	$	— 			$	77 			$	32 			$	86 	
+Direct-to-Consumer	— 			— 			3 			1 	
+Filmed Entertainment	— 			— 			5 			18 	
+Corporate	— 			— 			14 			— 	
+Severance (a)
+	— 			77 			54 			105 	
+Exit costs	— 			8 			— 			8 	
+Restructuring charges 	— 			85 			54 			113 	
+Other corporate matters	(10)			84 			(10)			163 	
+Restructuring and other corporate matters	$	(10)			$	169 			$	44 			$	276 	
+(a) Severance costs include the accelerated vesting of stock-based compensation.
+Following our 2022 operating segment realignment and as we integrated Showtime into Paramount+, we implemented further initiatives to streamline and transform our operations, and as a result recorded restructuring charges of $54 million for associated severance costs during the second quarter of 2023. In addition, during the three months ended September 30, 2023, we recorded a benefit of $10 million in other corporate matters for an insurance recovery related to litigation described under Legal Matters—Stockholder Matters.
+
+During the three and nine months ended September 30, 2022, we recorded restructuring charges of $85 million and $113 million, respectively, which were comprised of severance costs and the impairment of lease assets in each period. The severance costs were primarily associated with management changes following the operating segment realignment noted above. The lease impairments related to lease assets that we ceased use of with the intent to sublease in connection with initiatives to reduce our real estate footprint in New York City. Additionally, during the three and nine months ended September 30, 2022, we recorded charges for other corporate matters of $84 million and $163 million, respectively, of which $77 million and $117 million, respectively, were associated with litigation described under Legal Matters—Stockholder Matters. Also included in other corporate matters were charges of $7 million and $46 million for the three and nine months ended September 30, 2022, respectively, recorded following Russia’s invasion of Ukraine, principally to reserve against amounts due from counterparties in Russia, Belarus and Ukraine.
+
+-41-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Gain on Dispositions
+For the three and nine months ended September 30, 2022, we recorded a gain of $41 million relating to the contribution of certain assets of Paramount+ in the Nordics to SkyShowtime. The nine months ended September 30, 2022 also includes gains totaling $15 million, comprised of a gain from the sale of international intangible assets and a working capital adjustment to the gain from the fourth quarter 2021 sale of CBS Studio Center.
+
+Interest Expense/Income
+																																																								
+	Three Months Ended September 30,		Nine Months Ended September 30,	
+					Increase/(Decrease)						Increase/(Decrease)	
+	2023		2022		$		%			2023		2022		$		%		
+Interest expense	$	232 			$	231 			$	1 			— 	%			$	698 			$	701 			$	(3)			— 	%		
+Interest income	$	29 			$	33 			$	(4)			(12)	%			$	97 			$	73 			$	24 			33 	%		
+The following table presents our outstanding debt balances, excluding finance leases, and the weighted average interest rates as of September 30, 2023 and 2022.
+																																			
+	At September 30,
+			Weighted Average				Weighted Average
+	2023		Interest Rate		2022		Interest Rate
+Total notes and debentures	$	15,662 				5.11 	%			$	15,775 				5.13 	%	
+Other bank borrowings	$	— 				— 	%			$	47 				5.80 	%	
+Gain (Loss) from Investments
+During the second quarter of 2023, we recorded a gain of $168 million on our retained interest in Viacom18 following the discontinuance of equity method accounting resulting from the dilution of our interest from 49% to 13%. For the three months ended September 30, 2022, we recorded a loss of $4 million on the sale of a 37.5% interest in The CW, which was principally comprised of transaction costs, and an impairment of an investment of $5 million.
+
+Loss on Extinguishment of Debt
+For the nine months ended September 30, 2022, we recorded losses on extinguishment of debt totaling $120 million associated with the early redemption of long-term debt of $2.91 billion.
+
+-42-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Other Items, Net
+The following table presents the components of Other items, net.
+																										
+	Three Months Ended September 30,		Nine Months Ended September 30,
+	2023		2022		2023		2022	
+Pension and postretirement benefit costs (a)
+	$	(38)			$	(16)			$	(113)			$	(49)		
+Foreign exchange loss	(4)			(21)			(38)			(44)		
+Other	— 			1 			3 			2 		
+Other items, net	$	(42)			$	(36)			$	(148)			$	(91)		
+(a) For the three and nine months ended September 30, 2023, the increase in pension and postretirement benefit costs is the result of higher interest cost and a decrease in the expected return on plan assets.
+Provision for/Benefit from Income Taxes
+The provision for/benefit from income taxes represents federal, state and local, and foreign taxes on earnings (loss) from continuing operations before income taxes and equity in loss of investee companies. For the three months ended September 30, 2023, we recorded a provision for income taxes of $40 million, and for the nine months ended September 30, 2023, we recorded a benefit from income taxes of $436 million, reflecting effective income tax rates of 10.6% and 30.4%, respectively. Included in the third quarter of 2023 is a net discrete tax benefit of $33 million, primarily reflecting the benefit from guidance issued during the quarter by the IRS that resulted in additional foreign taxes from 2022 being eligible for a foreign tax credit, and amounts realized in connection with the filing of our tax returns in certain international jurisdictions. These items, together with a tax provision of $3 million on other corporate matters, decreased our effective income tax rate by 8.5 percentage points. The tax benefit for the nine months ended September 30, 2023 was primarily the result of a tax benefit of $582 million on programming charges of $2.37 billion. This item, together with a net discrete tax benefit of $67 million, which principally includes the $33 million discrete tax benefit for the quarter discussed above and the resolution of an income tax matter in a foreign jurisdiction, as well as a net tax provision of $49 million on other items identified as affecting the comparability of our results during the period (which include a gain from an investment and restructuring charges and other corporate matters), increased our effective income tax rate by 10.2 percentage points.
+
+For the three and nine months ended September 30, 2022, we recorded a provision for income taxes of $101 million and $264 million, reflecting effective income tax rates of 31.3% and 20.1%, respectively. Included in the provision for income taxes for the third quarter of 2022 is a net discrete tax provision of $9 million, which primarily reflects discrete tax provisions realized in connection with the filing of our tax returns in certain international jurisdictions and from the transfer of subsidiaries in connection with a reorganization of our international operations. These items, together with a net tax benefit of $29 million on other items identified as affecting the comparability of our results during the period (which include charges for restructuring and other corporate matters, and a gain on a disposition) increased our effective income tax rate by 5.0 percentage points. The tax provision for the nine months ended September 30, 2022 included a net discrete tax benefit of $72 million primarily resulting from the transfer of intangible assets between our subsidiaries in connection with a reorganization of our international operations. This item, together with a net tax benefit of $77 million on other items identified as affecting the comparability of our results during the nine-month period (which include charges for restructuring and other corporate matters, a loss on extinguishment of debt, and gains on dispositions) decreased our effective income tax rate by 4.8 percentage points.
+
+-43-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Equity in Loss of Investee Companies, Net of Tax
+The following table presents equity in loss of investee companies for our equity-method investments.
+																																																								
+	Three Months Ended September 30,		Nine Months Ended September 30,	
+					Increase/(Decrease)						Increase/(Decrease)	
+	2023		2022		$		%			2023		2022		$		%		
+Equity in loss of investee
+   companies	$	(77)			$	(75)			$	(2)			(3)	%			$	(267)			$	(166)			$	(101)			(61)	%		
+Tax benefit	2 			17 			(15)			(88)				8 			42 			(34)			(81)			
+Equity in loss of investee
+   companies, net of tax	$	(75)			$	(58)			$	(17)			(29)	%			$	(259)			$	(124)			$	(135)			(109)	%		
+For the nine months ended September 30, 2023, the higher loss for our equity-method investments was driven by SkyShowtime, which launched its streaming service in September 2022.
+
+Net Earnings (Loss) from Continuing Operations Attributable to Paramount and Diluted EPS from Continuing Operations
+																																																					
+	Three Months Ended September 30,		Nine Months Ended September 30,	
+					Increase/(Decrease)						Increase/(Decrease)	
+	2023		2022		$		%			2023		2022		$		%	
+Net earnings (loss) from
+   continuing operations
+   attributable to Paramount	$	247 			$	153 			$	94 			61 	%			$	(1,288)			$	902 			$	(2,190)			n/m	
+Diluted EPS from
+   continuing operations 	$	.36 			$	.21 			$	.15 			71 	%			$	(2.04)			$	1.32 			$	(3.36)			n/m	
+n/m-not meaningful
+For the three months ended September 30, 2023, net earnings from continuing operations attributable to Paramount and diluted EPS from continuing operations increased $94 million and $.15, respectively, compared with the prior-year period. These increases were primarily the result of the increase in operating income. For the nine months ended September 30, 2023, we reported a net loss from continuing operations attributable to Paramount of $1.29 billion, or $2.04 per diluted share, compared with net earnings from continuing operations attributable to Paramount of $902 million, or $1.32 per diluted share, for the prior-year period. The decrease was primarily driven by the decline in tax-effected operating income, including the impact from the programming charges discussed above, partially offset by the investment gain discussed above.
+-44-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Net Earnings from Discontinued Operations
+The following table sets forth details of net earnings from discontinued operations for the three and nine months ended September 30, 2023 and 2022, which primarily reflects the results of Simon & Schuster. On October 30, 2023, we completed the sale of Simon & Schuster to affiliates of Kohlberg Kravis Roberts & Co. for $1.62 billion. As a result, we will recognize a gain in the fourth quarter of 2023, which we estimate will be approximately $700 million.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Revenues	$	307 			$	353 			$	857 			$	863 	
+Costs and expenses:							
+Operating 	195 			198 			501 			483 	
+Selling, general and administrative 	49 			45 			138 			130 	
+Restructuring charges	— 			2 			— 			2 	
+Total costs and expenses (a)
+	244 			245 			639 			615 	
+Operating income	63 			108 			218 			248 	
+Other items, net	(4)			(3)			(11)			(9)	
+Earnings from discontinued operations	59 			105 			207 			239 	
+Provision for income taxes (b)
+	(11)			(27)			(41)			(58)	
+Net earnings from discontinued operations, net of tax	$	48 			$	78 			$	166 			$	181 	
+(a) Included in total costs and expenses are amounts associated with the release of indemnification obligations for leases relating to a previously disposed business of $3 million and $9 million for the three and nine months ended September 30, 2023, respectively, and $15 million and $25 million for the three and nine months ended September 30, 2022, respectively.
+(b) The tax provision includes amounts relating to previously disposed businesses of $1 million and $2 million for the three and nine months ended September 30, 2023, respectively, and $4 million and $6 million for the three and nine months ended September 30, 2022, respectively.
+Segment Results of Operations
+We are a global media, streaming and entertainment company that creates premium content and experiences for audiences worldwide, and is comprised of the following segments:
+•TV Media—Our TV Media segment consists of our (1) broadcast operations—the CBS Television Network, our domestic broadcast television network; CBS Stations, our owned television stations; and our international free-to-air networks, Network 10, Channel 5, Telefe, and Chilevisión; (2) premium and basic cable networks, including Showtime (to be rebranded to Paramount+ with Showtime in the future), MTV, Comedy Central, Paramount Network, The Smithsonian Channel, Nickelodeon, BET Media Group, CBS Sports Network, and international extensions of certain of these brands; (3) domestic and international television studio operations, including CBS Studios, Paramount Television Studios and MTV Entertainment Studios, as well as CBS Media Ventures, which produces and distributes first-run syndicated programming. TV Media also includes a number of digital properties such as CBS News Streaming and CBS Sports HQ.
+
+•Direct-to-Consumer—Our Direct-to-Consumer segment consists of our portfolio of domestic and international pay and free streaming services, including Paramount+, Pluto TV, Showtime Networks’ domestic premium subscription streaming service (“Showtime OTT”), BET+ and Noggin. Effective June 27, 2023, we launched the Paramount+ with Showtime plan in the United States, which replaced the
+-45-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Paramount+ Premium plan. Effective July 6, 2023, Showtime OTT was no longer offered as a standalone subscription service for new subscribers.
+
+•Filmed Entertainment—Our Filmed Entertainment segment consists of Paramount Pictures, Paramount Players, Paramount Animation, Nickelodeon Studio, Awesomeness and Miramax.
+
+We present operating income excluding depreciation and amortization, stock-based compensation, restructuring charges and other corporate matters, programming charges and gain on dispositions, each where applicable (“Adjusted OIBDA”), as the primary measure of profit and loss for our operating segments in accordance with Financial Accounting Standards Board guidance for segment reporting since it is the primary method used by our management. Stock-based compensation is excluded from our segment measure of profit and loss because it is set and approved by our Board of Directors in consultation with corporate executive management. Stock-based compensation is included as a component of our consolidated Adjusted OIBDA. See Reconciliation of Non-GAAP Measures for a reconciliation of total Adjusted OIBDA to operating income (loss), the most directly comparable financial measure in accordance with GAAP.
+Three Months Ended September 30, 2023 and 2022
+																																									
+	Three Months Ended September 30,
+		% of Total
+Revenues			% of Total
+Revenues	Increase/(Decrease)	
+	2023		2022	$		%	
+Revenues:													
+TV Media	$	4,567 			64 	%			$	4,948 			72 	%		$	(381)			(8)	%	
+Direct-to-Consumer	1,692 			24 				1,226 			18 			466 			38 		
+Filmed Entertainment	891 			12 				783 			11 			108 			14 		
+Eliminations	(17)			— 				(41)			(1)			24 			59 		
+Total Revenues	$	7,133 			100 	%			$	6,916 			100 	%		$	217 			3 	%	
+																										
+	Three Months Ended September 30,
+					Increase/(Decrease)	
+	2023		2022		$		%	
+Adjusted OIBDA:								
+TV Media	$	1,149 			$	1,231 			$	(82)			(7)	%	
+Direct-to-Consumer	(238)			(343)			105 			31 		
+Filmed Entertainment	(49)			41 			(90)			n/m	
+Corporate/Eliminations	(103)			(104)			1 			1 		
+Stock-based compensation (a)
+	(43)			(39)			(4)			(10)		
+Total Adjusted OIBDA	716 			786 			(70)			(9)		
+Depreciation and amortization	(105)			(92)			(13)			(14)		
+Restructuring and other corporate matters	10 			(169)			179 			n/m	
+Gain on dispositions	— 			41 			(41)			n/m	
+Total Operating Income	$	621 			$	566 			$	55 			10 	%	
+n/m - not meaningful
+(a) For the three months ended September 30, 2022, stock-based compensation expense of $11 million is included in “Restructuring and other corporate matters”.
+-46-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Nine Months Ended September 30, 2023 and 2022
+																																									
+	Nine Months Ended September 30,	
+		% of Total
+Revenues			% of Total
+Revenues	Increase/(Decrease)	
+	2023		2022	$		%	
+Revenues:													
+TV Media	$	14,917 			68 	%			$	15,849 			72 	%		$	(932)			(6)	%	
+Direct-to-Consumer	4,867 			22 				3,508 			16 			1,359 			39 		
+Filmed Entertainment	2,310 			10 				2,770 			12 			(460)			(17)		
+Eliminations	(80)			— 				(104)			— 			24 			23 		
+Total Revenues	$	22,014 			100 	%			$	22,023 			100 	%		$	(9)			— 	%	
+																										
+	Nine Months Ended September 30,	
+					Increase/(Decrease)	
+	2023		2022		$		%	
+Adjusted OIBDA:								
+TV Media	$	3,649 			$	4,155 			$	(506)			(12)	%	
+Direct-to-Consumer	(1,173)			(1,244)			71 			6 		
+Filmed Entertainment	(143)			185 			(328)			n/m	
+Corporate/Eliminations	(336)			(320)			(16)			(5)		
+Stock-based compensation (a)
+	(127)			(114)			(13)			(11)		
+Total Adjusted OIBDA	1,870 			2,662 			(792)			(30)		
+Depreciation and amortization	(310)			(282)			(28)			(10)		
+Programming charges	(2,371)			— 			(2,371)			n/m	
+Restructuring and other corporate matters	(44)			(276)			232 			84 		
+Gain on dispositions	— 			56 			(56)			n/m	
+Total Operating Income (Loss)	$	(855)			$	2,160 			$	(3,015)			n/m	
+n/m - not meaningful
+(a) For the nine months ended September 30, 2023 and 2022, stock-based compensation expense of $4 million and $13 million, respectively, is included in “Restructuring and other corporate matters”.
+TV Media
+Three Months Ended September 30, 2023 and 2022
+																										
+	Three Months Ended September 30,
+			Increase/(Decrease)	
+TV Media	2023		2022		$		%	
+Advertising 	$	1,703 			$	1,973 			$	(270)			(14)	%	
+Affiliate and subscription	2,004 			2,000 			4 			— 		
+Licensing and other	860 			975 			(115)			(12)		
+Revenues	$	4,567 			$	4,948 			$	(381)			(8)	%	
+								
+Adjusted OIBDA	$	1,149 			$	1,231 			$	(82)			(7)	%	
+Revenues
+For the three months ended September 30, 2023, revenues decreased 8%, reflecting lower advertising and licensing revenues.
+
+-47-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Advertising
+The 14% decrease in advertising revenues was primarily the result of continued weakness in the global advertising market. Domestic advertising revenues declined 13% to $1.43 billion and international advertising revenues decreased 16% to $274 million. The domestic decline also reflects lower political advertising revenues as a result of U.S. midterm elections in 2022. Foreign exchange rate changes negatively impacted the total advertising revenue comparison by 2 percentage points.
+
+Affiliate and Subscription
+Affiliate and subscription revenues increased slightly for the three months ended September 30, 2023. Domestic affiliate and subscription revenues increased 1% to $1.90 billion as higher subscription revenues from pay-per-view boxing events were substantially offset by declines in affiliate fees. The decrease in domestic affiliate fees reflects subscriber declines, which were largely offset by contractual pricing increases. International affiliate and subscription revenues decreased 6% to $105 million, driven by a shift of revenue from our pay television services to our streaming services following the restructuring of certain affiliate agreements.
+
+Licensing and Other
+Licensing and other revenues decreased 12%, reflecting lower revenues from content produced for third parties. Content available for licensing has been and may continue to be impacted by temporary production shutdowns as a result of labor strikes.
+
+Adjusted OIBDA
+Adjusted OIBDA decreased 7%, reflecting the decline in revenues, partially offset by lower costs for content and marketing.
+Nine Months Ended September 30, 2023 and 2022
+																										
+	Nine Months Ended September 30,
+			Increase/(Decrease)	
+TV Media	2023		2022		$		%	
+Advertising
+	$	5,905 			$	6,668 			$	(763)			(11)	%	
+Affiliate and subscription	6,082 			6,156 			(74)			(1)		
+Licensing and other	2,930 			3,025 			(95)			(3)		
+Revenues	$	14,917 			$	15,849 			$	(932)			(6)	%	
+								
+Adjusted OIBDA	$	3,649 			$	4,155 			$	(506)			(12)	%	
+
+Revenues
+For the nine months ended September 30, 2023, revenues decreased 6%, driven by lower advertising revenues, primarily due to weakness in the global advertising market.
+
+Advertising
+The 11% decrease in advertising revenues was primarily the result of weakness in the global advertising market. Domestic advertising revenues declined 10% to $5.08 billion and international advertising revenues decreased 19% to $826 million. The domestic decline also reflects lower political advertising revenues as a result of U.S. midterm elections in 2022. Foreign exchange rate changes negatively impacted the total advertising revenue comparison by 1 percentage point.
+-48-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Affiliate and Subscription
+Affiliate and subscription revenues decreased 1% for the nine months ended September 30, 2023. Domestic affiliate and subscription revenues decreased slightly to $5.76 billion as declines in affiliate fees were offset by higher subscription revenues from pay-per-view boxing events. The decrease in domestic affiliate fees reflects subscriber declines, which were largely offset by contractual pricing increases. International affiliate and subscription revenues decreased 13% to $322 million, driven by a shift of revenue from our pay television services to our streaming services following the restructuring of certain affiliate agreements.
+
+Licensing and Other
+Licensing and other revenues decreased 3%, principally reflecting lower revenues from content produced for third parties. Content available for licensing has been and may continue to be impacted by temporary production shutdowns as a result of labor strikes.
+
+Adjusted OIBDA
+Adjusted OIBDA decreased 12%, primarily driven by the decline in revenues, partially offset by lower costs, principally for content and marketing.
+Direct-to-Consumer
+Three Months Ended September 30, 2023 and 2022
+																										
+	Three Months Ended September 30,
+			Increase/(Decrease)	
+Direct-to-Consumer	2023		2022		$		%	
+Advertising
+	$	430 			$	363 			$	67 			18 	%	
+Subscription	1,258 			863 			395 			46 		
+Licensing (a)
+	4 			— 			4 			n/m	
+Revenues	$	1,692 			$	1,226 			$	466 			38 	%	
+								
+Adjusted OIBDA	$	(238)			$	(343)			$	105 			31 	%	
+								
+n/m - not meaningful								
+								
+(a) Reflects revenues from the licensing of content rights acquired by BET+.	
+								
+	Three Months Ended September 30,
+(in millions)	2023		2022		Increase/(Decrease)	
+Paramount+ (Global)								
+Subscribers (a)
+	63.4 			46.0 			17.4 			38 	%	
+								
+Revenues	$	1,138 			$	708 			$	430 			61 	%	
+(a) Subscribers include customers with access to Paramount+, either directly through our owned and operated apps and websites, or through third-party distributors. Our subscribers include paid subscriptions and those customers registered in a free trial. For the periods above, subscriber counts reflect the number of subscribers as of the applicable period-end date.
+Revenues
+For the three months ended September 30, 2023, the 38% increase in revenues was primarily driven by growth from Paramount+.
+
+-49-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Advertising
+The 18% increase in advertising revenues was primarily driven by higher impressions for Paramount+ and growth from Pluto TV, including from international launches.
+
+Subscription
+The 46% increase in subscription revenues was primarily driven by growth in U.S and international Paramount+ subscribers, which grew 17.4 million, or 38%, compared to September 30, 2022. The revenue growth also includes the impact from domestic pricing increases for each of our subscription plans that went into effect when we launched the Paramount+ with Showtime plan on June 27, 2023, as well as revenues from pay-per-view boxing events.
+
+During the quarter, global Paramount+ subscribers increased 2.7 million, or 4%, to 63.4 million, compared with 60.7 million at June 30, 2023. The growth reflects the addition of certain Showtime OTT subscribers to the Paramount+ with Showtime plan, as well as the benefit from the start of the NFL season and the premieres of Special Ops: Lioness and season six of The Chi. The increases were partially offset by a reduction of 1.3 million subscribers in Latin America after we restructured a distribution agreement.
+
+Adjusted OIBDA
+Adjusted OIBDA improved by $105 million, as the higher revenues more than offset higher costs to support growth in our streaming services, including content, distribution, advertising and employee costs.
+Nine Months Ended September 30, 2023 and 2022
+																										
+	Nine Months Ended September 30,
+					Increase/(Decrease)	
+Direct-to-Consumer	2023		2022		$		%	
+Advertising	$	1,269 			$	1,073 			$	196 			18 	%	
+Subscription	3,594 			2,435 			1,159 			48 		
+Licensing (a)
+	4 			— 			4 			n/m	
+Revenues	$	4,867 			$	3,508 			$	1,359 			39 	%	
+								
+Adjusted OIBDA	$	(1,173)			$	(1,244)			$	71 			6 	%	
+								
+n/m - not meaningful								
+								
+(a) Reflects revenues from the licensing of content rights acquired by BET+.	
+								
+	Nine Months Ended September 30,
+					Increase/(Decrease)	
+	2023		2022		$		%	
+Paramount+ (Global)								
+								
+Revenues	$	3,093 			$	1,965 			$	1,128 			57 	%	
+								
+Revenues
+For the nine months ended September 30, 2023, the 39% increase in revenues was primarily driven by growth from Paramount+.
+
+-50-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Advertising
+The 18% increase in advertising revenues was driven by an increase in impressions for Paramount+ and growth from Pluto TV, including from international launches.
+
+Subscription
+The 48% increase in subscription revenues reflects growth across our streaming services, primarily from Paramount+, as well as higher revenues from pay-per-view boxing events.
+
+Adjusted OIBDA
+Adjusted OIBDA improved by $71 million, as revenue growth more than offset higher costs to support growth in our streaming services, including content, advertising, distribution and employee costs.
+Filmed Entertainment
+Three Months Ended September 30, 2023 and 2022
+																										
+	Three Months Ended September 30,
+			Increase/(Decrease)	
+Filmed Entertainment	2023		2022		$		%	
+Advertising (a)
+	$	5 			$	3 			$	2 			67 	%	
+Theatrical	377 			231 			146 			63 		
+Licensing and other	509 			549 			(40)			(7)		
+Revenues	$	891 			$	783 			$	108 			14 	%	
+								
+Adjusted OIBDA	$	(49)			$	41 			$	(90)			n/m	
+n/m - not meaningful
+(a) Primarily reflects advertising revenues earned from the use of Filmed Entertainment content on third party digital platforms.
+Revenues
+For the three months ended September 30, 2023, revenues increased 14%, driven by higher theatrical revenues.
+
+Theatrical
+Theatrical revenues increased 63%, primarily reflecting the third quarter 2023 releases of Mission: Impossible — Dead Reckoning Part One and Teenage Mutant Ninja Turtles: Mutant Mayhem. Theatrical revenues in the prior-year period were principally from the continued success of Top Gun: Maverick, which was released in the second quarter of 2022.
+
+Licensing and Other
+Licensing and other revenues decreased 7%, principally due to the success of Top Gun: Maverick in the digital home entertainment market in the prior-year period, as well as lower revenue from studio rentals and production services as a result of labor strikes.
+
+-51-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Adjusted OIBDA
+Adjusted OIBDA decreased $90 million, primarily from the timing and mix of theatrical releases in each year, incremental costs incurred during production shutdowns, as well as lower revenue from studio rentals and production services, which contributed approximately $20 million of the decline.
+Fluctuations in results for the Filmed Entertainment segment may occur as a result of the timing of the recognition of distribution costs, including print and advertising, which are generally incurred before and throughout the theatrical release of a film, while the revenues for the respective film are recognized as earned through the film’s theatrical exhibition and distribution to other platforms.
+Nine Months Ended September 30, 2023 and 2022
+																										
+	Nine Months Ended September 30,
+			Increase/(Decrease)	
+Filmed Entertainment	2023		2022		$		%	
+Advertising (a)
+	$	21 			$	17 			$	4 			24 	%	
+Theatrical	735 			1,126 			(391)			(35)		
+Licensing and other	1,554 			1,627 			(73)			(4)		
+Revenues	$	2,310 			$	2,770 			$	(460)			(17)	%	
+								
+Adjusted OIBDA	$	(143)			$	185 			$	(328)			n/m	
+n/m - not meaningful
+(a) Primarily reflects advertising revenues earned from the use of Filmed Entertainment content on third party digital platforms as well as sponsorships.
+Revenues
+For the nine months ended September 30, 2023, revenues decreased 17%, driven by lower theatrical revenues primarily due to the success of Top Gun: Maverick in the prior-year period.
+
+Theatrical
+The 35% decrease in theatrical revenues primarily reflects the comparison against the success of Top Gun: Maverick in the prior-year period, partially offset by theatrical revenues from the previously mentioned third quarter 2023 releases.
+
+Licensing and Other
+Licensing and other revenues decreased 4%, principally due to the success of Top Gun: Maverick in the digital home entertainment market in the prior-year period, as well as lower revenue from studio rentals and production services.
+
+Adjusted OIBDA
+Adjusted OIBDA decreased $328 million, primarily reflecting the mix of theatrical releases in each year, including the success of Top Gun: Maverick in the prior-year period.
+-52-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Liquidity and Capital Resources
+Sources and Uses of Cash
+We project anticipated cash requirements for our operating, investing and financing needs as well as cash flows expected to be generated and available to meet these needs. Our operating needs include, among other items, expenditures for content for our broadcast and cable networks and streaming services, including television and film programming, sports rights, and talent contracts, as well as advertising and marketing costs to promote our content and platforms; payments for leases, interest, and income taxes; and pension funding obligations. While our planned spending in 2023 included continued increased investment in our streaming services, our spending for content will be lower than we initially anticipated due to temporary shutdowns of production on certain of our television and film programming as a result of labor strikes.
+
+Our investing and financing spending includes capital expenditures; acquisitions; funding relating to new and existing investments, including SkyShowtime, our streaming joint venture with Comcast Corporation, under which both parent companies have committed to support initial operations over a multiyear period; discretionary share repurchases, dividends and principal payments on our outstanding indebtedness. Our long-term debt obligations due over the next five years were $3.21 billion as of September 30, 2023. We routinely assess our capital structure and opportunistically enter into transactions to manage our outstanding debt maturities, which could result in a charge from the early extinguishment of debt. Beginning with the dividend declared in the second quarter of 2023, we reduced the quarterly cash dividend on our Class A and Class B Common Stock to $.05 per share (or $.20 annually).
+
+Funding for both our short-term and long-term operating, investing and financing needs will come primarily from cash flows from operating activities, cash and cash equivalents, which were $1.80 billion as of September 30, 2023, proceeds from noncore asset sales, including the October 2023 sale of Simon & Schuster, and our ability to refinance our debt. Any additional cash funding requirements are financed with short-term borrowings, including commercial paper, and long-term debt. To the extent that commercial paper is not available to us, the borrowing capacity under our $3.50 billion Credit Facility described below is sufficient to satisfy short-term borrowing needs. In addition, if necessary, we can increase our liquidity position by reducing non-committed spending.
+
+Our access to capital markets and the cost of any new borrowings can be impacted by factors outside our control, including economic and market conditions, as well as by ratings assigned by independent rating agencies. As a result, there can be no assurance that we will be able to access capital markets on terms and conditions that will be favorable to us.
+-53-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Cash Flows
+The changes in cash and cash equivalents were as follows:
+																							
+	Nine Months Ended September 30,
+	2023		2022		Increase/(Decrease)
+Net cash flow (used for) provided by operating activities from:							
+Continuing operations	$	(174)			$	219 				$	(393)		
+Discontinued operations	205 			107 				98 		
+Net cash flow provided by operating activities	31 			326 				(295)		
+Net cash flow used for investing activities from:							
+Continuing operations	(341)			(380)				39 		
+Discontinued operations	(3)			(3)				— 		
+Net cash flow used for investing activities	(344)			(383)				39 		
+Net cash flow used for financing activities	(744)			(2,681)				1,937 		
+Effect of exchange rate changes on cash and cash equivalents 	(24)			(146)				122 		
+Net decrease in cash and cash equivalents	$	(1,081)			$	(2,884)				$	1,803 		
+Operating Activities
+Operating cash flow from continuing operations for the nine months ended September 30, 2023 was a net use of cash of $174 million compared to a net source of cash of $219 million for the nine months ended September 30, 2022. The decrease in operating cash flow from continuing operations primarily reflects higher collections from theatrical releases in the prior-year period, mainly from Top Gun: Maverick, as well as higher payments for restructuring, merger-related costs, and transformation initiatives in the current-year period, partially offset by lower spending for content in 2023.
+Payments for restructuring, merger-related costs and transformation initiatives included in operating cash flow for the nine months ended September 30, 2023 and 2022 were $288 million and $133 million, respectively. The increase in 2023 is primarily due to payments in the current-year period associated with litigation described under Legal Matters—Stockholder Matters. Since the merger of Viacom Inc. (“Viacom”) with and into CBS Corporation (“CBS”) (the “Merger”), we have invested in a number of transformation initiatives. Initially, these were undertaken to realize synergies related to the Merger. More recently, our transformation initiatives are related to future-state technology, including the unification and evolution of systems and platforms, and migration to the cloud. In addition, we are investing in future-state workspaces, including adapting our facilities to accommodate our hybrid and agile work model.
+Cash flow provided by operating activities from discontinued operations reflects the operating activities of Simon & Schuster. For the nine months ended September 30, 2023, the increase in operating cash flow from discontinued operations reflects higher collections, driven by higher revenues, and the timing of inventory spending.
+-54-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Investing Activities
+																							
+	Nine Months Ended September 30,
+	2023		2022
+Investments 		$	(184)					$	(189)		
+Capital expenditures (a)
+		(213)					(228)		
+Other investing activities (b)
+		56 					37 		
+Net cash flow used for investing activities from continuing operations		(341)					(380)		
+Net cash flow used for investing activities from discontinued operations		(3)					(3)		
+Net cash flow used for investing activities		$	(344)					$	(383)		
+(a) Includes payments associated with the implementation of our transformation initiatives of $22 million and $34 million in 2023 and 2022, respectively.
+(b) 2023 primarily reflects the collection of receivables associated with the sale of a 37.5% interest in The CW in the prior year and proceeds received from the disposition of certain channels in Latin America. 2022 primarily reflects the disposition of international intangible assets.
+Financing Activities
+																							
+	Nine Months Ended September 30,
+	2023		2022
+Proceeds from issuance of notes and debentures		$	— 					$	989 		
+Repayment of notes and debentures		(139)					(3,010)		
+Dividends paid on preferred stock		(43)					(43)		
+Dividends paid on common stock		(351)					(471)		
+Payment of payroll taxes in lieu of issuing shares for stock-based compensation		(21)					(14)		
+Payments to noncontrolling interests		(97)					(106)		
+Other financing activities		(93)					(26)		
+Net cash flow used for financing activities		$	(744)					$	(2,681)		
+Dividends
+The following table presents dividends declared per share and total dividends for our Class A and B Common Stock and our 5.75% Series A Mandatory Convertible Preferred Stock (“ Mandatory Convertible Preferred Stock”) for the three and nine months ended September 30, 2023 and 2022.
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,		September 30,
+	2023		2022		2023		2022
+Class A and Class B Common Stock
+							
+Dividends declared per common share	$	.05 			$	.24 			$	.34 			$	.72 	
+							
+Total common stock dividends	$	34 			$	159 			$	228 			$	477 	
+Mandatory Convertible Preferred Stock
+							
+Dividends declared per preferred share	$	1.4375 			$	1.4375 			$	4.3125 			$	4.3125 	
+							
+Total preferred stock dividends	$	14 			$	14 			$	43 			$	43 	
+-55-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Capital Structure
+The following table sets forth our debt.
+																							
+	At		At
+	September 30, 2023		December 31, 2022
+Senior debt (2.90%-7.875% due 2023-2050)		$	14,030 					$	14,149 		
+Junior debt (6.25% and 6.375% due 2057 and 2062)		1,632 					1,632 		
+Other bank borrowings		— 					55 		
+Obligations under finance leases		3 					10 		
+Total debt (a)
+		15,665 					15,846 		
+Less current portion 		38 					239 		
+Total long-term debt, net of current portion		$	15,627 					$	15,607 		
+(a) At September 30, 2023 and December 31, 2022, the senior and junior subordinated debt balances included (i) a net unamortized discount of $427 million and $442 million, respectively, and (ii) unamortized deferred financing costs of $84 million and $89 million, respectively. The face value of our total debt was $16.18 billion and $16.38 billion at September 30, 2023 and December 31, 2022, respectively.
+
+In September 2023, we repaid our $139 million of 7.875% debentures upon maturity. In addition, on November 1, 2023, we repaid our $35 million of 7.125% senior notes upon maturity.
+
+On November 2, 2023, we announced the commencement of cash tender offers for up to $1.0 billion combined aggregate purchase price of certain of our outstanding senior notes due between 2025 and 2028.
+
+During the nine months ended September 30, 2022, we redeemed $2.39 billion of senior notes, prior to maturity, for an aggregate redemption price of $2.49 billion. Also in 2022, we redeemed $520 million of 5.875% junior subordinated debentures due February 2057 at par. These redemptions resulted in a total pre-tax loss on extinguishment of debt of $120 million for the nine months ended September 30, 2022.
+
+During the nine months ended September 30, 2022, we also issued $1.00 billion of 6.375% junior subordinated debentures due 2062. The interest rate on these debentures will reset on March 30, 2027, and every five years thereafter to a fixed rate equal to the 5-year Treasury Rate (as defined pursuant to the terms of the debentures) plus a spread. These debentures can be called by us at par plus a make whole premium any time before March 30, 2027, or at par on March 30, 2027, or at any interest payment date thereafter.
+
+Our 6.25% junior subordinated debentures due February 2057 accrue interest at the stated fixed rate until February 28, 2027, on which date the rate will switch to a floating rate. These debentures can be called by us at par at any time after the expiration of the fixed-rate period.
+
+The subordination, interest deferral option and extended term of our junior subordinated debentures provide significant credit protection measures for senior creditors and, as a result of these features, the debentures received a 50% equity credit by Standard & Poor’s Rating Services and Fitch Ratings Inc., and a 25% equity credit by Moody’s Investors Service, Inc.
+
+Commercial Paper
+At both September 30, 2023 and December 31, 2022, we had no outstanding commercial paper borrowings.
+
+-56-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Credit Facility
+During the first quarter of 2023, we amended and extended our $3.50 billion revolving credit facility (the “Credit Facility”), which now matures in January 2027 (the “2023 Amendment”). The Credit Facility is used for general corporate purposes and to support commercial paper borrowings, if any. We may, at our option, also borrow in certain foreign currencies up to specified limits under the Credit Facility. Borrowing rates under the Credit Facility are determined at the time of each borrowing and are generally based on either the prime rate in the U.S. or an applicable benchmark rate plus a margin (based on our senior unsecured debt rating), depending on the type and tenor of the loans entered into. Under the 2023 Amendment, we replaced LIBOR as the benchmark rate for loans denominated in U.S. dollars with Term SOFR. The benchmark rate for loans denominated in euros, sterling and yen is based on EURIBOR, SONIA and TIBOR, respectively. The Credit Facility was also amended to include a provision that the occurrence of a Change of Control (as defined in the amended credit agreement) of Paramount will be an event of default that would give the lenders the right to accelerate any outstanding loans and terminate their commitments. At September 30, 2023, we had no borrowings outstanding under the Credit Facility and the availability under the Credit Facility was $3.50 billion.
+
+The Credit Facility has one principal financial covenant which sets a maximum Consolidated Total Leverage Ratio (“Leverage Ratio”) at the end of each quarter, which prior to the 2023 Amendment was 4.5x. Under the 2023 Amendment, the maximum Leverage Ratio was increased to 5.75x for each quarter through and including the quarter ending September 30, 2024, and will then decrease to 5.5x for the quarters ending December 31, 2024 and March 31, 2025, with decreases of 0.25x for each subsequent quarter until it reaches 4.5x for the quarter ending March 31, 2026. The Leverage Ratio reflects the ratio of our Consolidated Indebtedness, net of unrestricted cash and cash equivalents at the end of a quarter, to our Consolidated EBITDA (each as defined in the amended credit agreement) for the trailing twelve-month period. Under the 2023 Amendment, the definition of the Leverage Ratio was also modified to set the maximum amount of unrestricted cash and cash equivalents that can be netted against Consolidated Indebtedness to $1.50 billion for quarters ending on or after September 30, 2024. In addition, under the 2023 Amendment, Simon & Schuster was treated as a continuing operation for the purposes of calculating Consolidated EBITDA until its disposition in October 2023. We met the covenant as of September 30, 2023.
+
+Other Bank Borrowings
+At September 30, 2023, we had no outstanding bank borrowings under Miramax’s $50 million credit facility, which matures in November 2024. This facility replaced the previous $300 million credit facility that matured in April 2023. At December 31, 2022, we had $55 million of bank borrowings under the previous facility with a weighted average interest rate of 7.09%.
+Guarantees
+Letters of Credit and Surety Bonds
+At September 30, 2023, we had outstanding letters of credit and surety bonds of $174 million that were not recorded on the Consolidated Balance Sheet, as well as a $1.9 billion standby letter of credit facility, under which no letters of credit were issued. In accordance with the contractual requirements of one of our commitments, we expect that a $1.9 billion letter of credit will be issued in January 2024 under the standby letter of credit facility. The amount outstanding under the letter of credit will decrease throughout 2024 as we make payments under the related contractual commitment. Letters of credit and surety bonds are primarily used as security against non-performance in the normal course of business under contractual requirements of certain of our commitments. The standby letter of credit facility, which matures in May 2026, is subject to the same principal financial covenant as the Credit Facility (see Capital Structure—Credit Facility).
+-57-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+CBS Television City
+In connection with the sale of the CBS Television City property and sound stage operation (“CBS Television City”) in 2019, we guaranteed a specified level of cash flows to be generated by the business during the first five years following the completion of the sale. Included in “Other current liabilities” on the Consolidated Balance Sheet at September 30, 2023 is a liability totaling $26 million, reflecting the present value of the remaining estimated amount payable under the guarantee obligation.
+
+Lease Guarantees
+We have certain indemnification obligations with respect to leases primarily associated with the previously discontinued operations of Famous Players Inc. These lease commitments totaled $11 million at September 30, 2023, and are presented within “Other liabilities” on the Consolidated Balance Sheet. The amount of lease commitments varies over time depending on the expiration or termination of individual underlying leases, or the related indemnification obligation, and foreign exchange rates, among other things. We may also have exposure for certain other expenses related to the leases, such as property taxes and common area maintenance. We believe our accrual is sufficient to meet any future obligations based on our consideration of available financial information, the lessees’ historical performance in meeting their lease obligations and the underlying economic factors impacting the lessees’ business models.
+
+Other
+In the course of our business, we both provide and receive indemnities which are intended to allocate certain risks associated with business transactions. Similarly, we may remain contingently liable for various obligations of a business that has been divested in the event that a third party does not live up to its obligations under an indemnification obligation. We record a liability for our indemnification obligations and other contingent liabilities when probable and reasonably estimable.
+Legal Matters
+General
+On an ongoing basis, we vigorously defend ourselves in numerous lawsuits and proceedings and respond to various investigations and inquiries from federal, state, local and international authorities (collectively, “Litigation”). Litigation may be brought against us without merit, is inherently uncertain and always difficult to predict. However, based on our understanding and evaluation of the relevant facts and circumstances, we believe that the following matters are not likely, in the aggregate, to result in a material adverse effect on our business, financial condition and results of operations.
+
+Stockholder Matters
+Litigation Relating to the Merger
+Beginning in February 2020, three purported CBS stockholders filed separate derivative and/or putative class action lawsuits in the Court of Chancery of the State of Delaware (the “Delaware Chancery Court”). In March 2020, the Delaware Chancery Court consolidated the three lawsuits and appointed Bucks County Employees Retirement Fund and International Union of Operating Engineers of Eastern Pennsylvania and Delaware as co-lead plaintiffs for the consolidated action captioned In re CBS Corporation Stockholder Class Action and Derivative Litigation (the “CBS Litigation”). In April 2020, the lead plaintiffs filed a Verified Consolidated Class Action and Derivative Complaint (as used in this paragraph, the “Complaint”) against Shari E. Redstone, National Amusements, Inc., Sumner M. Redstone National Amusements Trust, additional members of the CBS Board of
+-58-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Directors (including Candace K. Beinecke, Barbara M. Byrne, Gary L. Countryman, Linda M. Griego, Robert N. Klieger, Martha L. Minow, Susan Schuman, Frederick O. Terrell and Strauss Zelnick), former CBS President and Acting Chief Executive Officer Joseph Ianniello and the Company as nominal defendant. The Complaint alleged breaches of fiduciary duties in connection with the negotiation and approval of an Agreement and Plan of Merger, dated as of August 13, 2019, between CBS and Viacom (as amended, the “Merger Agreement”). The Complaint also alleged waste and unjust enrichment in connection with certain aspects of Mr. Ianniello’s compensation awards. The Complaint sought unspecified damages, costs and expenses, as well as other relief. In December 2022, the Delaware Chancery Court dismissed the fiduciary duty claim against Mr. Klieger.
+In May 2023, the parties to the CBS Litigation entered into a settlement agreement that provided for, among other things, the final dismissal of the CBS Litigation in exchange for a settlement payment to the Company in the amount of $167.5 million, less administrative costs and plaintiffs’ counsels’ fees and expenses. In September 2023, the Delaware Chancery Court approved the settlement and dismissed the CBS Litigation with prejudice. In October 2023, the Company received the settlement payment in the amount of $120 million, which reflects the settlement of $167.5 million after a deduction was made for administrative costs and plaintiffs’ counsels’ fees and expenses, and accordingly, we will recognize a gain of $120 million during the fourth quarter of 2023.
+
+Beginning in November 2019, four purported Viacom stockholders filed separate putative class action lawsuits in the Delaware Chancery Court. In January 2020, the Delaware Chancery Court consolidated the four lawsuits. In February 2020, the Delaware Chancery Court appointed California Public Employees’ Retirement System (“CalPERS”) as lead plaintiff for the consolidated action. Subsequently, in February 2020, CalPERS, together with Park Employees’ and Retirement Board Employees’ Annuity and Benefit Fund of Chicago and Louis M. Wilen, filed a First Amended Verified Class Action Complaint (as used in this paragraph, the “Complaint”) against NAI, NAI Entertainment Holdings LLC, Shari E. Redstone, the members of the special transaction committee of the Viacom Board of Directors (comprised of Thomas J. May, Judith A. McHale, Ronald L. Nelson and Nicole Seligman) and our President and Chief Executive Officer and director, Robert M. Bakish (as used in this paragraph, the “Viacom Litigation”). The Complaint alleged breaches of fiduciary duties to Viacom stockholders in connection with the negotiation and approval of the Merger Agreement. The Complaint sought unspecified damages, costs and expenses, as well as other relief. In December 2020, the Delaware Chancery Court dismissed the claims against Mr. Bakish, while allowing the claims against the remaining defendants to proceed.
+
+In March 2023, the parties to the Viacom Litigation entered into a settlement agreement that provided for, among other things, the final dismissal of the Viacom Litigation in exchange for a settlement payment in the amount of $122.5 million, which has been fully paid. In July 2023, the Delaware Chancery Court granted approval of the settlement and dismissed the Viacom Litigation with prejudice.
+
+Litigation Related to Stock Offerings
+In August 2021, Camelot Event Driven Fund filed a putative securities class action lawsuit in New York Supreme Court, County of New York, and in November 2021, an amended complaint was filed that, among other changes, added an additional named plaintiff (as used in this paragraph, the “Complaint”). The Complaint is purportedly on behalf of investors who purchased shares of the Company’s Class B Common Stock and 5.75% Series A Mandatory Convertible Preferred Stock pursuant to public securities offerings completed in March 2021, and was filed against the Company, certain senior executives, members of our Board of Directors, and the underwriters involved in the offerings. The Complaint asserts violations of federal securities law and alleges that the offering documents contained material misstatements and omissions, including through an alleged failure to adequately disclose certain total return swap transactions involving Archegos Capital Management referenced to our securities and related alleged risks to the Company’s stock price. In December 2021, the plaintiffs filed a stipulation seeking the voluntary dismissal without prejudice of the outside director defendants from the lawsuit, which the Court subsequently ordered. On the same date, the defendants filed motions to dismiss the lawsuit, which were heard in
+-59-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+January 2023. In February 2023, the Court dismissed all claims against the Company while allowing the claims against the underwriters to proceed. The plaintiffs and underwriter defendants have appealed the ruling.
+
+Litigation Related to Television Station Owners
+In September 2019, the Company was added as a defendant in a multi-district putative class action lawsuit filed in the United States District Court for the Northern District of Illinois. The lawsuit was filed by parties that claim to have purchased broadcast television spot advertising beginning about January 2014 on television stations owned by one or more of the defendant television station owners and alleges the sharing of allegedly competitively sensitive information among such television stations in alleged violation of the Sherman Antitrust Act. The action, which names the Company among fourteen total defendants, seeks monetary damages, attorneys’ fees, costs and interest as well as injunctions against the allegedly unlawful conduct. We reached an agreement with the plaintiffs to settle the lawsuit. The settlement, which includes no admission of liability or wrongdoing by the Company, is subject to Court approval. In August 2023, the Court granted preliminary approval of the settlement.
+
+Claims Related to Former Businesses
+Asbestos
+We are a defendant in lawsuits claiming various personal injuries related to asbestos and other materials, which allegedly occurred as a result of exposure caused by various products manufactured by Westinghouse, a predecessor, generally prior to the early 1970s. Westinghouse was neither a producer nor a manufacturer of asbestos. We are typically named as one of a large number of defendants in both state and federal cases. In the majority of asbestos lawsuits, the plaintiffs have not identified which of our products is the basis of a claim. Claims against us in which a product has been identified most commonly relate to allegations of exposure to asbestos-containing insulating material used in conjunction with turbines and electrical equipment.
+
+Claims are frequently filed and/or settled in groups, which may make the amount and timing of settlements, and the number of pending claims, subject to significant fluctuation from period to period. We do not report as pending those claims on inactive, stayed, deferred or similar dockets that some jurisdictions have established for claimants who allege minimal or no impairment. As of September 30, 2023, we had pending approximately 20,670 asbestos claims, as compared with approximately 21,580 as of December 31, 2022. During the third quarter of 2023, we received approximately 690 new claims and closed or moved to an inactive docket approximately 770 claims. We report claims as closed when we become aware that a dismissal order has been entered by a court or when we have reached agreement with the claimants on the material terms of a settlement. Settlement costs depend on the seriousness of the injuries that form the basis of the claims, the quality of evidence supporting the claims and other factors. Our total costs for the years 2022 and 2021 for settlement and defense of asbestos claims after insurance recoveries and net of tax were approximately $57 million and $63 million, respectively. Our costs for settlement and defense of asbestos claims may vary year to year and insurance proceeds are not always recovered in the same period as the insured portion of the expenses.
+
+Filings include claims for individuals suffering from mesothelioma, a rare cancer, the risk of which is allegedly increased by exposure to asbestos; lung cancer, a cancer which may be caused by various factors, one of which is alleged to be asbestos exposure; other cancers, and conditions that are substantially less serious, including claims brought on behalf of individuals who are asymptomatic as to an allegedly asbestos-related disease. The predominant number of pending claims against us are non-cancer claims. It is difficult to predict future asbestos liabilities, as events and circumstances may impact the estimate of our asbestos liabilities, including, among others, the number and types of claims and average cost to resolve such claims. We record an accrual for a loss contingency when it is both probable that a liability has been incurred and when the amount of the loss can be
+-60-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+reasonably estimated. Our liability estimate is based upon many factors, including the number of outstanding claims, estimated average cost per claim, the breakdown of claims by disease type, historic claim filings, costs per claim of resolution and the filing of new claims, as well as consultation with a third party firm on trends that may impact our future asbestos liability. While we believe that our accrual for matters related to our predecessor operations, including environmental and asbestos, are adequate, there can be no assurance that circumstances will not change in future periods, and as a result our actual liabilities may be higher or lower than our accrual.
+
+Other 
+From time to time, we receive claims from federal and state environmental regulatory agencies and other entities asserting that we are or may be liable for environmental cleanup costs and related damages principally relating to our historical and predecessor operations. In addition, from time to time we receive personal injury claims including toxic tort and product liability claims (other than asbestos) arising from our historical operations and predecessors.
+Related Parties
+See Note 4 to the consolidated financial statements.
+Critical Accounting Policies
+See Item 7, Management’s Discussion and Analysis of Results of Operations and Financial Condition in our Annual Report on Form 10-K for the year ended December 31, 2022, for a discussion of our critical accounting policies.
+
+Cautionary Note Concerning Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains both historical and forward‑looking statements, including statements related to our future results and performance. All statements that are not statements of historical fact are, or may be deemed to be, forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Similarly, statements that describe our objectives, plans or goals are or may be forward-looking statements. These forward-looking statements reflect our current expectations concerning future results and events; generally can be identified by the use of statements that include phrases such as “believe,” “expect,” “anticipate,” “intend,” “plan,” “foresee,” “likely,” “will,” “may,” “could,” “estimate” or other similar words or phrases; and involve known and unknown risks, uncertainties and other factors that are difficult to predict and which may cause our actual results, performance or achievements to be different from any future results, performance or achievements expressed or implied by these statements. These risks, uncertainties and other factors include, among others: risks related to our streaming business; the adverse impact on our advertising revenues as a result of changes in consumer viewership, advertising market conditions and deficiencies in audience measurement; risks related to operating in highly competitive industries, including cost increases; our ability to maintain attractive brands and to offer popular content; changes in consumer behavior, as well as evolving technologies and distribution models; the potential for loss of carriage or other reduction in or the impact of negotiations for the distribution of our content; damage to our reputation or brands; risks related to our ongoing investments in new businesses, products, services, technologies and other strategic activities; losses due to asset impairment charges for goodwill, intangible assets, FCC licenses and programming; risks related to environmental, social and governance (ESG) matters; evolving business continuity, cybersecurity, privacy and data protection and similar risks; content infringement; domestic and global political, economic and regulatory factors affecting our businesses generally; the impact of COVID-19 and other pandemics and measures taken in response thereto; liabilities related to discontinued operations and former businesses; the loss of existing or inability to hire new key employees or secure creative talent; strikes and other union activity, including the ongoing Screen Actors Guild-American Federation of Television and Radio
+-61-
+
+
+Management’s Discussion and Analysis of
+Results of Operations and Financial Condition (Continued)
+(Tabular dollars in millions, except per share amounts)
+Artists (SAG-AFTRA) strike; volatility in the price of our common stock; potential conflicts of interest arising from our ownership structure with a controlling stockholder; and other factors described in our news releases and filings with the Securities and Exchange Commission, including but not limited to our most recent Annual Report on Form 10-K and reports on Form 10-Q and Form 8-K. There may be additional risks, uncertainties and factors that we do not currently view as material or that are not necessarily known. The forward‑looking statements included in this Quarterly Report on Form 10-Q are made only as of the date of this report, and we do not undertake any obligation to publicly update any forward‑looking statements to reflect subsequent events or circumstances.
+					
+Item 3.
+	
+Quantitative and Qualitative Disclosures About Market Risk.
+There have been no significant changes to market risk since reported in our Annual Report on Form 10-K for the year ended December 31, 2022.
+					
+Item 4.
+	
+Controls and Procedures.
+Our chief executive officer and chief financial officer have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended) were effective, based on the evaluation of these controls and procedures required by Rule 13a-15(b) or 15d-15(b) of the Securities Exchange Act of 1934, as amended.
+
+No change in our internal control over financial reporting occurred during our last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+-62-
+
+PART II – OTHER INFORMATION
+					
+Item 1.
+	
+Legal Proceedings.
+The information set forth in Note 13 to the consolidated financial statements appearing in Item 1 of Part I of this Quarterly Report on Form 10-Q under the caption “Legal Matters” is incorporated by reference herein.
+					
+Item 1A.	Risk Factors.
+There have been no material changes to risk factors previously disclosed in Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2022.
+					
+Item 2.
+	
+Unregistered Sales of Equity Securities and Use of Proceeds.
+Company Purchases of Equity Securities
+In November 2010, we announced that our Board of Directors approved a program to repurchase $1.5 billion of our common stock in open market purchases or other types of transactions (including accelerated stock repurchases or privately negotiated transactions). Since then, various increases totaling $16.4 billion have been approved and announced, including most recently, an increase to the share repurchase program to a total availability of $6.0 billion on July 28, 2016. During the third quarter of 2023, we did not purchase any shares under our publicly announced share repurchase program, which had remaining authorization of $2.36 billion at September 30, 2023.
+-63-
+
+					
+Item 6.
+	
+Exhibits.
+								
+Exhibit No.	Description of Document
+(10)			Material Contracts
+	(a)	
+Insurance Procurement and Indemnification Agreement, dated as of July 25, 2023 (filed herewith).*
+(31)			Rule 13a-14(a)/15d-14(a) Certifications
+	(a)	
+Certification of the Chief Executive Officer of Paramount Global pursuant to Rule 13a-14(a), or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes Oxley Act of 2002 (filed herewith).
+	(b)	
+Certification of the Chief Financial Officer of Paramount Global pursuant to Rule 13a-14(a), or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes Oxley Act of 2002 (filed herewith).
+(32)			Section 1350 Certifications
+	(a)	
+Certification of the Chief Executive Officer of Paramount Global furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 (furnished herewith).
+	(b)	
+Certification of the Chief Financial Officer of Paramount Global furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 (furnished herewith).
+(101)			Interactive Data File
+		101. INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+		101. SCH Inline XBRL Taxonomy Extension Schema.
+		101. CAL Inline XBRL Taxonomy Extension Calculation Linkbase.
+		101. DEF Inline XBRL Taxonomy Extension Definition Linkbase.
+		101. LAB Inline XBRL Taxonomy Extension Label Linkbase.
+		101. PRE Inline XBRL Taxonomy Extension Presentation Linkbase.
+		
+(104)			
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________
+*Management contract or compensatory plan or arrangement.
+-64-
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+					
+	
+PARAMOUNT GLOBAL
+(Registrant)
+	
+Date: November 2, 2023	/s/ Naveen Chopra
+	
+Naveen Chopra
+Executive Vice President,
+Chief Financial Officer
+	
+Date: November 2, 2023	/s/ Katherine Gill-Charest
+	
+Katherine Gill-Charest
+Executive Vice President, Controller and
+Chief Accounting Officer
+-65-

@@ -1,0 +1,11 @@
+Netflix-10k.txt Information
+Line Count: 1983
+Word Count: 35844
+Char Count: 240923
+Parts in the file: 4
+
+ParamountGl-10k.txt Information
+Line Count: 4183
+Word Count: 62792
+Char Count: 425426
+Parts in the file: 6

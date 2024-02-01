@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tailu/csce247/CSCE240/home-works",
-      "program": "c:/Users/tailu/csce247/CSCE240/home-works/build/Debug/outDebug",
+      "cwd": "c:/Users/tailu/csce247/CSCE240/home-works/GeometricPropertyCalculator/src",
+      "program": "c:/Users/tailu/csce247/CSCE240/home-works/GeometricPropertyCalculator/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
