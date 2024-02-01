@@ -97,6 +97,7 @@ void readFile(string text) {
              if(line.find(fileName)!= string::npos){
                  cout << fileName << " is a duplicate!" << endl;
                  bool Dupe = true;
+                 return;
              }
              else{
                  bool Dupe = false;
@@ -109,10 +110,6 @@ void readFile(string text) {
 
 void writeFile(string fileName) {
     checkDupe(fileName);
-    //Checks to make sure that there is no duplicates to the file before appending the contents of the file to the output file.
-        if(Dupe = true){
-        return;
-    }
     ofstream outputFile("../txt/output.txt", ios::app);
     if (outputFile.is_open()) {
         outputFile << fileName << " Information" << endl;
