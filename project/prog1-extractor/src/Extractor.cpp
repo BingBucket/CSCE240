@@ -88,19 +88,19 @@ void readFile(string text) {
 
  }
 
-//Function that checks if there is a duplicate .txt file that already has information in the file. If so, then it updates the boolean.
+//Function that checks if there is a duplicate .txt file that already has information in the file. If so, then it outputs to the console to tell the user of a possible duplicate.
  void checkDupe(string fileName){
      ifstream inputFile("../txt/output.txt");
      if (inputFile.is_open()) {
          string line;
          while (getline(inputFile, line)) {
              if(line.find(fileName)!= string::npos){
-                 cout << fileName << " is a duplicate!" << endl;
-                 bool Dupe = true;
+                 cout << fileName << " is a duplicate! Please check output file to ensure there are no copies." << endl;
+                 Dupe = true;
                  return;
              }
              else{
-                 bool Dupe = false;
+                 Dupe = false;
              }
          }
          inputFile.close();
@@ -109,6 +109,7 @@ void readFile(string text) {
  }
 
 void writeFile(string fileName) {
+    Dupe = false;
     checkDupe(fileName);
     ofstream outputFile("../txt/output.txt", ios::app);
     if (outputFile.is_open()) {
@@ -131,6 +132,4 @@ void writeFile(string fileName) {
     readFile("ParamountGlobal-10k.txt");
     writeFile("ParamountGlobal-10k.txt");
     return 0;
-
-
  }
