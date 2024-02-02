@@ -126,9 +126,10 @@ void writeFile(string fileName) {
     cout << "Reading the Netflix 10k file..." << endl;
     readFile("Netflix-10k.txt");
     writeFile("Netflix-10k.txt");
-    cout << "Reading the ParamountGl 10k file..." << endl;
-    readFile("ParamountGl-10k.txt");
-    writeFile("ParamountGl-10k.txt");
+    //The previous ParamountGlobal 10k file, denoted now as "ParamountGl-10qOLD.txt", was the wrong file. The correct file has been uploaded, and the code has been updated to take in the correct file.
+    cout << "Reading the ParamountGlobal 10k file..." << endl;
+    readFile("ParamountGlobal-10k.txt");
+    writeFile("ParamountGlobal-10k.txt");
     return 0;
 
 
