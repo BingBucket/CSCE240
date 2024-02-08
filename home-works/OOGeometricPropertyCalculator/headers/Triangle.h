@@ -10,17 +10,10 @@ class Triangle : public Shape{
     int side2;
     int side3;
 
-    double getPerimeter(int side1, int side2, int side3){
-        return side1 + side2 + side3;
-    }
-    double getArea(int side1, int side2, int side3){
-        return (side1 * side2) / 2;
-    }
+    double getPerimeter(int side1, int side2, int side3);
+    double getArea(int side1, int side2, int side3);
 
-    std::string getErrorMessage(){
-        return "";
-
-    }
+    std::string getErrorMessage();
     };
 
 

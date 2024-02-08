@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tailu/csce247/CSCE240/project/prog1-extractor/src",
-      "program": "c:/Users/tailu/csce247/CSCE240/project/prog1-extractor/src/build/Debug/outDebug",
+      "cwd": "c:/Users/tailu/csce247/CSCE240/home-works/OOGeometricPropertyCalculator/implem",
+      "program": "c:/Users/tailu/csce247/CSCE240/home-works/OOGeometricPropertyCalculator/implem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -9,15 +9,9 @@ class Circle: public Shape{
 public:
     std::string name;
     int radius;
-    double getArea(int radius){
-        return 3.14*radius*radius;
-    }
-    double getPerimeter(int radius){
-        return 2*3.14*radius;
-    }
-    std::string getErrorMessage(){
-        return "";
-    }
+    double getArea(int radius);
+    double getPerimeter(int radius);
+    std::string getErrorMessage();
 };
 
 #endif //Circle

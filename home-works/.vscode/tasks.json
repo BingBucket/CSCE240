@@ -9,7 +9,9 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-IC:/Users/tailu/csce247/CSCE240/home-works/OOGeometricPropertyCalculator/headers",
+                ""
             ],
             "options": {
                 "cwd": "${fileDirname}"
