@@ -2,10 +2,10 @@
 #include <string>
 #include <fstream>
 #include <sstream>
-#include <Triangle.h>
-#include <Shape.h>
-#include <Rectangle.h>
-#include <Circle.h>
+#include "Triangle.cpp"
+#include "Shape.cpp"
+#include "Rectangle.cpp"
+#include "Circle.cpp"
 
 using namespace std;
 //Initializes variables.
@@ -27,7 +27,7 @@ void readFile() {
 		while (getline(inputFile, line)) {
             //Stores the contents of the line to the shape array by utilizing stringstream.
             stringstream ss(line);
-            ss << Name << dim1 << dim2 << dim3;
+            ss >> Name >> dim1 >> dim2 >> dim3;
             shapeArray[lines].shapeName = Name;
             shapeArray[lines].dimension1 = dim1;
             shapeArray[lines].dimension2 = dim2;

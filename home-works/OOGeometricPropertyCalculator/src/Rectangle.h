@@ -3,7 +3,7 @@
 #define RECTANGLE_H
 
 #include <string>
-#include <Shape.h>
+#include "Shape.h"
 
 class Rectangle: public Shape{
     public:

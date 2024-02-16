@@ -1,7 +1,7 @@
 
 
-#ifndef SHAPE_H
-#define SHAPE_H
+#ifndef SHAPE_H_
+#define SHAPE_H_
 #include <String>
 
 using namespace std;
