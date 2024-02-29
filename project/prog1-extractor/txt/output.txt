@@ -9,3 +9,16 @@ Line Count: 4224
 Word Count: 70148
 Char Count: 474602
 Parts in the file: 4
+
+Netflix-10k.txt Information
+Line Count: 1983
+Word Count: 35844
+Char Count: 240923
+Parts in the file: 4
+
+ParamountGlobal-10k.txt Information
+Line Count: 4224
+Word Count: 70148
+Char Count: 474602
+Parts in the file: 4
+

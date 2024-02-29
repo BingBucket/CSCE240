@@ -12,7 +12,8 @@ int partCount = 0;
 string partNumber = "";
 bool Dupe = false;
 
-//The 10k files utilize roman numerals to denote parts. This function will translate a number to a string of the corresponding roman numeral, up to 9.
+//The 10k files utilize roman numerals to denote parts. 
+//This function will translate a number to a string of the corresponding roman numeral, up to 9.
 void romanNumeralCounter(int num){
     switch (num) {
         case 0:

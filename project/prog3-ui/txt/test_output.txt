@@ -1,0 +1,15 @@
+hi/hello/hey --> terminal says hi back
+goodbye/exit/done --> terminal says goodbye and terminates the loop
+netflix/paramount --> terminal asks for what information the user wants from the following file they inputted.
+part 1 --> terminal outputs all the information from part 1.
+part 2 --> terminal outputs all the information from part 2.
+part 3 --> terminal outputs all the information from part 3.
+business --> terminal outputs the information from the business section of the text file.
+risk factors --> terminal outputs the information from the risk factors section of the text file.
+properties --> terminal outputs the properties of the corresponding company text file.
+market/markets/market information --> terminal outputs the information from the market section of the text file.
+legal/legal statement/legal information --> terminal outputs the information from the legal section of the text file, and finds the corresponding referenced section of the text file.
+disclosure/disclosure information/disclosure statement --> terminal outputs the information from both the disclosure section of the text file, and the part that the section references.
+director/directors --> terminal outputs a list of all the directors of the company.
+compensation --> terminal outputs that the compensation list is not available for this file, and to check the output file for more information.
+finance/financial statements --> terminal outputs the financial statements section and the index of consolidated statements that it refers to.
