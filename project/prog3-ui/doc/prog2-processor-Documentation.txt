@@ -1,7 +1,0 @@
-The prog2-processor.cpp file is the main cpp file for the program, and is what should be ran.
-The .exe files in the 
-The header and cpp files in the header and implem folders were meant to be utilized by the main cpp file, 
-but errors made it difficult to utilize, so they were transferred to the main cpp file and used directly.
-These cpp files work as expected, and inherit from the Part.cpp and its methods and functions effectively, but do not work in the main cpp file.
-The part.h file is the parent header file that the different parts inherit from, as they all utilize the same readFile and writeFile method.
-As a result, the part.cpp file is also utilized by the different .cpp files.

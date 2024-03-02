@@ -1,0 +1,12 @@
+The prog3-ui.cpp file is the main cpp file for the program, and is what should be ran.
+Ensure that part.cpp is linked with the correct header file, and that the prog3-ui.cpp file takes it in.
+
+Please ensure that both company name and the section you want to search for are all in one query.
+This program does not ask for specifications if you do not input in a company name. It will instead just either take the company from the previous query, or it will take from the Netflix 10k file.
+The program is able to output information for each company for the following:
+- All parts (Part 1, Part 2, Part 3, Part 4, and all parts combined)
+    - To get all parts, simply input "tell me everything" or "give all information".
+- Business information, risk factors, properties, market information, and legal statements from part 1.
+- Disclosures from part 2.
+- Directors and compensation from part 3.
+- Financial statements from part 4.

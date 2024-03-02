@@ -43,26 +43,33 @@ void defaultMessage(std::string input){
 int main(){
     std::string filetoRead = "Netflix-10k.txt";
     bool loop = true;
+    //ispart boolean is used to check if an output to terminal is needed. This is used mainly for the larger outputs, especially the parts, but is also used for miscellaneous options like saying hi or quitting.
     bool ispart = false;
     Part part;
     std::string userResponse;
     std::cout << "Welcome to the Text Processor!\nI have information on both Paramount and Netflix's 10-K Reports. \nIf you do not specify a company or the company is not one of the two, then we will take information from your previous query, or from Netflix's 10-k." << std::endl;
 
+    //do while loop to begin the chatbot process.
     do {
         ispart = false;
         std::cout << "\nWhat would you like to know?" << std::endl;
         getline(cin, userResponse);
+
+        //The first if statement is what exits the loop if the user inputs a goodbye or quit command
         if(regex_match(userResponse, quit) || regex_match(userResponse, goodbye))
         {
             std:: cout << "Goodbye!" << std:: endl;
             ispart = true;
             loop = false;
         }
+        //A simple hello command if the user inputs hello
         else if(regex_match(userResponse, hello))
         {
             std::cout << "Hello!" << std::endl;
             ispart = true;
         }
+
+        //These else if statements are used to determine what parts of the file that the readFile command should read from.
         else if(regex_search(userResponse, part1))
             {
                 part.determineProcess("part1");
@@ -136,13 +143,18 @@ int main(){
             ispart = true;
             std::cout << "I have written everything from all parts to the output file. Good luck with all that info!" << std::endl;
             }
+        
+        //If none of the above is found, then the terminal will output the default error message and ask again.
         else{
             defaultMessage(userResponse);
             ispart = true;
         }
+
+        //These two parts of the if statement identify which company's 10-k file that the readFile method should read from.
         if(regex_search(userResponse, paramountIdentifier))
         {
             filetoRead="ParamountGlobal-10k.txt";
+            part.readFile(filetoRead);
         }
 
         else if(regex_search(userResponse, netflixIdentifier))
@@ -150,14 +162,21 @@ int main(){
             filetoRead="Netflix-10k.txt";
             part.readFile(filetoRead);
         }
+
+        //If regex cannot find either company in the user response, then it just takes in the filetoRead variable's current value.
         else{
             part.readFile(filetoRead);
         }
 
+        //This if statement is to check if the boolean ispart is false. If it is, then it outputs the information from the readFile to the terminal.
         if(!ispart) {
             std::cout << part.output << std::endl;
         }
 
+        /*These last if statements are used to call the specific functions if the user's request is for a
+        * legal statement, disclosure statement, list of directors, or compensation statement.
+        * The readFile method is not enough to output the required information for each statement, so these extra methods are needed.
+        */
         if(regex_search(userResponse, legalstatement))
         {
             part.readLegal(filetoRead);
@@ -175,6 +194,8 @@ int main(){
         {
             part.readConsolidatedStatement(filetoRead);
         }
+
+        //Writes the output to the file, and erases anything left in the output to ensure it is clean for the next readFile method.
         part.writeFile();
         part.output = "";
 

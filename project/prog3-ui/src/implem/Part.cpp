@@ -17,10 +17,6 @@ std::regex netflixnum("^[0-9]+");
 * part of the 10-k file. 
 * To fix this, the regex below are used to find the specific references that the items point to.
 */
-std::regex Part1("PART I$");
-std::regex Part2("PART II$");
-std::regex Part3("PART III$");
-std::regex Part4("PART IV$");
 std::regex legal("^Legal [A-Z][a-z]{6,}");
 std::regex marketrisk("^Market Risk");
 std::regex directors("^(\\*\\		)?[A-Z][a-z]{1,}-?[a-zA-Z]*.+(	)(January|February).+202(3|4)$");
@@ -145,6 +141,7 @@ void Part::readFile(std::string filename){
     }
     }
 
+//Reads the legal statements from the file and adds it to the output string.
     void Part::readLegal(std::string filename){
     int count = 0;
     std::string line;
@@ -182,6 +179,7 @@ void Part::readFile(std::string filename){
     }
     }
 
+//Reads the disclosure market risk information and adds it to the output string.
 void Part::readDisclosure(std::string filename){
     std::string line;
     std::ifstream inputFile("../../txt/" + filename);
@@ -212,6 +210,7 @@ void Part::readDisclosure(std::string filename){
     }
 }
 
+//Reads the list of directors according to the directors regex and adds it to the output string.
 void Part::readDirectors(std:: string filename){
     std::string line;
     std::ifstream inputFile("../../txt/" + filename);
@@ -232,6 +231,7 @@ void Part::readDirectors(std:: string filename){
     }
 }
 
+//Reads the financial statements and adds it to the output string.
 void Part::readConsolidatedStatement(std::string filename){
     std::string line;
     bool skip = false;
