@@ -1,4 +1,5 @@
 The prog3-ui.cpp file is the main cpp file for the program, and is what should be ran.
+Run from within the prog3-ui folder, and not any folder above that directory.
 Ensure that part.cpp is linked with the correct header file, and that the prog3-ui.cpp file takes it in.
 
 Please ensure that both company name and the section you want to search for are all in one query.
