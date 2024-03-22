@@ -4,6 +4,7 @@
 #include <sstream>
 #include <regex>
 #include "../header/Part.h"
+#include "../header/Query.h"
 
 using namespace std;
 
@@ -46,6 +47,7 @@ int main(){
     //ispart boolean is used to check if an output to terminal is needed. This is used mainly for the larger outputs, especially the parts, but is also used for miscellaneous options like saying hi or quitting.
     bool ispart = false;
     Part part;
+    Query query;
     std::string userResponse;
     std::cout << "Welcome to the Text Processor!\nI have information on both Paramount and Netflix's 10-K Reports. \nIf you do not specify a company or the company is not one of the two, then we will take information from your previous query, or from Netflix's 10-k." << std::endl;
 
@@ -150,21 +152,20 @@ int main(){
             ispart = true;
         }
 
-        //These two parts of the if statement identify which company's 10-k file that the readFile method should read from.
-        if(regex_search(userResponse, paramountIdentifier))
+
+        //Instead of using the paramountIdentifier and netflixIdentifier regexes, the matchCompany method is used to determine which file to read from first.
+        part.readFile(query.matchCompany(userResponse));
+
+        //After using the matchCompany method, the paramountIdentifier and netflixIdentifier regexes are used if needed.
+        if(regex_search(userResponse, paramountIdentifier) && query.companyFind == false)
         {
             filetoRead="ParamountGlobal-10k.txt";
             part.readFile(filetoRead);
         }
 
-        else if(regex_search(userResponse, netflixIdentifier))
+        else if(regex_search(userResponse, netflixIdentifier) && query.companyFind == false)
         {
             filetoRead="Netflix-10k.txt";
-            part.readFile(filetoRead);
-        }
-
-        //If regex cannot find either company in the user response, then it just takes in the filetoRead variable's current value.
-        else{
             part.readFile(filetoRead);
         }
 
