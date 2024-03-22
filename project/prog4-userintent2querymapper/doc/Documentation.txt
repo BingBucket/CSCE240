@@ -1,0 +1,4 @@
+Like the previous program 3, this only works if you run the program within the prog4-userintent2querymapper directory.
+
+The biggest change in this program is the addition of Query.h, Query.cpp, and their related methods. These methods are mainly used for determining the company's file to use.
+The program should be able to handle similar queries to the previous program, but also checks how many times "paramount" or "netflix" appear in the user's query, and chooses a file based on the bigger frequency.
