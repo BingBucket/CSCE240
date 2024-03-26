@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tailu/csce247/CSCE240",
-      "program": "c:/Users/tailu/csce247/CSCE240/build/Debug/outDebug",
+      "cwd": "c:/Users/tailu/csce247/CSCE240/home-works/FactorialFun",
+      "program": "c:/Users/tailu/csce247/CSCE240/home-works/FactorialFun/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
