@@ -20,128 +20,122 @@ int countLinesCSV() {
         lines++;
     }
     return lines;
-}
-//Using code from Geeks4Geeks' "CSV file management using C++" article.
-int countLinesCSV() {
-    fin.open("../data/chat_statistics.csv");
-    int lines = 0;
-    string line;
-    while (getline(fin, line)) {
-        lines++;
-    }
-    return lines;
-}
-//Using code from Geeks4Geeks' "CSV file management using C++" article.
-void readFromCSV(int rowNum) {
-    fin.open("../data/chat_statistics.csv");
-    vector<string> row;
-    string line, word, temp;
-    int currentRow = 0;
-    userResponseCount = 0;
-    progResponseCount = 0; 
-    elapsedTime = 0;
 
-    while (getline(fin, line)) {
+}//Using code from Geeks4Geeks' "CSV file management using C++" article.
+void readFromCSV(int rowNum) {
+    sessionFile = "";
+    userResponseCount = 0;
+    progResponseCount = 0;
+    elapsedTime = 0;
+    ifstream statistics("../data/chat_statistics.csv");
+    rowNum = rowNum - 1;
+    vector<string> row;
+    string line, item;
+    int currentRow = 0;
+    while (getline(statistics, line)) {
         if(currentRow == rowNum){
-        row.clear();
-        getline(fin, line);
-        stringstream s(line);
-        while (getline(s, word, ',')) {
-            row.push_back(word);
+        istringstream s(line);
+        while (getline(s, line, ',')) {
+            row.push_back(line);
         }
         sessionFile = row[0];
         userResponseCount = stoi(row[1]);
         progResponseCount = stoi(row[2]);
         elapsedTime = stod(row[3]);
-        break;
-        }
-        else if(currentRow > countLinesCSV()){
-            cout << "Row number exceeds number of rows in CSV file. No such data exists. There are only " << countLinesCSV() << " sessions logged." << endl;
-        break;
         }
         currentRow++;
         
     }
-    fin.close();
+    statistics.close();
     
 }
 
 string getSessionFileFromCSV(int sessionNum) {
-    fin.open("../data/chat_statistics.csv");
     sessionFile = "";
+    userResponseCount = 0;
+    progResponseCount = 0;
+    elapsedTime = 0;
+    ifstream statistics("../data/chat_statistics.csv");
+    sessionNum = sessionNum - 1;
     vector<string> row;
-    string line, word, temp;
+    string line, item;
     int currentRow = 0;
 
-    while (getline(fin, line)) {
+    while (getline(statistics, line)) {
         if(currentRow == sessionNum){
-        row.clear();
-        getline(fin, line);
-        stringstream s(line);
-        while (getline(s, word, ',')) {
-            row.push_back(word);
+        istringstream s(line);
+        while (getline(s, line, ',')) {
+            row.push_back(line);
         }
         sessionFile = row[0];
-        cout << "Session File Name: " << sessionFile << endl;
         }
         currentRow++;
         
     }
-    if(currentRow > countLinesCSV()){
-        cout << "Row number exceeds number of rows in CSV file. No such data exists. There are only " << countLinesCSV() << " sessions logged." << endl;
-    }
-    fin.close();
+    statistics.close();
     return sessionFile;
     
 }
 
 void readChatFromSessionFile(string fileName) {
-    fin.open("../data/chat_sessions/" + fileName);
-    if(!fin.is_open()){
+    ifstream readFile("../data/chat_sessions/" + fileName);
+    if(!readFile.is_open()){
         cout << "Error opening file." << endl;
     }
     else{
     string line;
-    while (getline(fin, line)) {
+    while (getline(readFile, line)) {
         cout << line << endl;
     }
     }
-    fin.close();
+    readFile.close();
 }
 
 int main() {
-    int rowNum = 0;
+    int rowNum;
+    int lines = countLinesCSV();
     bool loop = true;
     do {
+        int totalUserResponseCount = 0;
+        int totalProgResponseCount = 0;
+        double totalElapsedTime = 0;
         cout << "Welcome to the session logger! What would you like to do?" << "\n"
         << "1. Read a session from the CSV file." << "\n"
         << "2. Show chat from a session." << "\n"
         << "3. Show summary of all sessions." << "\n"
         << "4. Exit." << endl;
+        
         int userResponse;
         cin >> userResponse;
         if(userResponse == 1){
             cout << "Enter the row number of the session you would like to know the statistics of: ";
             cin >> rowNum;
+            if(rowNum > lines){
+                cout << "Invalid row number. Please enter a valid row number." << endl;
+            }
+            else{
             readFromCSV(rowNum);
             cout << "Session File Name: " << sessionFile << endl;
             cout << "User Response Count: " << userResponseCount << endl;
             cout << "Program Response Count: " << progResponseCount << endl;
             cout << "Elapsed Time: " << elapsedTime << endl;
+            }
         }
         else if(userResponse == 2){
-            cout << "Enter the session number you would like to read. There are currently" << countLinesCSV() << " sessions logged." << endl;
+            cout << "Enter the session number you would like to read. There are currently " << countLinesCSV() << " sessions logged." << endl;
             cin >> rowNum;
-            readFromCSV(rowNum);
+            if(rowNum > lines){
+                cout << "Invalid session number. Please enter a valid session number." << endl;
+            }
+            else{
+            sessionFile = getSessionFileFromCSV(rowNum);
             readChatFromSessionFile(sessionFile);
             cout << "Chat from session " << rowNum << " has been displayed." << endl;
+            }
         }
         else if(userResponse == 3){
-            int totalUserResponseCount = 0;
-            int totalProgResponseCount = 0;
-            double totalElapsedTime = 0;
             cout << "Summary of all sessions:" << endl;
-            for(int i = 0; i < countLinesCSV(); i++){
+            for(int i = 1; i < lines+1; i++){
                 readFromCSV(i);
                 totalUserResponseCount += userResponseCount;
                 totalProgResponseCount += progResponseCount;
