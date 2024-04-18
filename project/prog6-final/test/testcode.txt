@@ -1,0 +1,4 @@
+The main code to test is the prog5-sessionlogger.cpp in the src folder. This has a program that is prompted by user input and displays corresponding actions available.
+There are only 2 chat sessions to read in this file, and the corresponding number inputted by the user will lead to different interactions.
+An example of reading specific chat session statistics, as well as the overall summary of the chat sessions can be found in reportstatisticstest.png.
+The only test not fully shown is showing the chat logs for the sessions, as they are very long. A snippet of the end of the terminal output can be seen in readfiletest.png
