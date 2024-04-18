@@ -81,6 +81,7 @@ void defaultMessage(std::string input){
     printClearStream();
 }
 
+//Gets the current date and time for the file name.
 std::string getCurrentDateTime() {
     auto current = std::chrono::system_clock::now();
     std::time_t currentTime = std::chrono::system_clock::to_time_t(current);
@@ -89,6 +90,7 @@ std::string getCurrentDateTime() {
     return ss.str();
 }
 
+//Writes the chat data to a file with the current date and time.
 std::string writeToFile(std::string output){
     fileData = "sessionData" + getCurrentDateTime() + ".txt";
     std::ofstream file("../../data/chat_sessions/" + fileData);
@@ -108,6 +110,7 @@ void appendToCSV() {
     }
 }
 
+//Counts the total lines in the CSV, which corresponds to the amount of logged sessions.
 int countLinesCSV() {
     fin.open("../../data/chat_statistics.csv");
     int lines = 0;
@@ -119,6 +122,7 @@ int countLinesCSV() {
 
 }
 //Using code from Geeks4Geeks' "CSV file management using C++" article.
+//This function reads the data from the CSV file and outputs it to the terminal depending on the given row number.
 void readFromCSV(int rowNum) {
     sessionFile = "";
     userResponseCount = 0;
@@ -147,6 +151,7 @@ void readFromCSV(int rowNum) {
     
 }
 
+//Gets the session file name from the CSV file for use for different functions.
 string getSessionFileFromCSV(int sessionNum) {
     sessionFile = "";
     userResponseCount = 0;
@@ -174,6 +179,7 @@ string getSessionFileFromCSV(int sessionNum) {
     
 }
 
+//reads chat from a session file and outputs it to the terminal.
 void readChatFromSessionFile(string fileName) {
     ifstream readFile("../../data/chat_sessions/" + fileName);
     if(!readFile.is_open()){
@@ -198,7 +204,7 @@ void ShowChat(string choice){
 	iss>>seshNum;
     cout << "Session number: " << seshNum << endl;
     
-    string sessionFile = getSessionFileFromCSV(seshNum);
+    sessionFile = getSessionFileFromCSV(seshNum);
 	string FileName="../../data/chat_sessions/" + sessionFile;
 //creates inputFile of specific session file, relies onlayout of choice being one word and then chat, I specified that showchat 3 would display session 3
 	ifstream inputFile(FileName);
@@ -280,6 +286,9 @@ void StatisticsSession(){
         }
     } while (loopstat == true);
     cout << "Ending chat statistics session." << endl;
+    userStatResponse = "";
+    responses.str("");
+
 
 }
 
@@ -437,7 +446,10 @@ int main(){
             printClearStream();
             progResponseCount++;
             }
+
+            //This else if statement is used to determine if the user wants to see the chat sessions, and if they do, it will ask if they want to switch to the chat session.
         else if(regex_search(userResponse, showChat)){
+            //This warning message is used to ensure that the user knows that the current session will end if they choose to switch to the statistics session.
             responses << "WARNING! \n This will end the current session and switch to an instance where you can review all previous chatbot sessions. Do you accept this?" << std::endl;
             printClearStream();
             progResponseCount++;
@@ -447,14 +459,17 @@ int main(){
             userResponseCount++;
             if(choice == "yes" || choice == "Yes" || choice == "y" || choice == "Y")
             {
+                //If the user accepts, then the session will end and be recorded, and the program will switch to the statistics session. The program ends after the statistics session.
                 auto end = std::chrono::system_clock::now();
                 elapsedTime = std::chrono::duration<double>(end - start).count();
                 endSession();
                 StatisticsSession();
-                auto start = std::chrono::system_clock::now();
+                return 0;
             }
+
             else
             {
+                //If the user does not accept, then the program will output that the session will continue.
                 responses << "Session will continue." << std::endl;
                 printClearStream();
             }

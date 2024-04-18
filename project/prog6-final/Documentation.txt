@@ -1,0 +1,5 @@
+The prog6-final.cpp should be ran within the prog6-final folder.
+The session can be switched to query statistics by inputting "show chat session". The program will first ask for confirmation before switching to the statistics session.
+The program ends after either the statistics session ends or the general chat session ends.
+In the statistics session, the available commands are "summary", "statistics", "show chat session", and "showchat" followed by the row number.
+summary shows the total statistics of all sessions, statistics shows the statistic of a specific given session, and both showchat and show chat session gives the recorded chat data given the row number.
