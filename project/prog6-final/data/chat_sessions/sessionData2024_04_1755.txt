@@ -1,0 +1,16 @@
+Welcome to the Text Processor!
+I have information on both Paramount and Netflix's 10-K Reports. 
+If you do not specify a company or the company is not one of the two, then we will take information from your previous query, or from Netflix's 10-k.
+ You may also ask for logs and statistics of previous chat sessions.
+
+What would you like to know?
+show chat session
+WARNING! 
+ This will end the current session and switch to an instance where you can review all previous chatbot sessions. Do you accept this?
+yes
+
+The user inputted 2 responses.
+
+The program outputted 1 valid responses.
+
+The program ran for 4.2066 seconds.

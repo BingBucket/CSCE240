@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tailu/csce247/CSCE240/project/prog5-logger/src",
-      "program": "c:/Users/tailu/csce247/CSCE240/project/prog5-logger/src/build/Debug/outDebug",
+      "cwd": "c:/Users/tailu/csce247/CSCE240/project/prog6-final/src/implem",
+      "program": "c:/Users/tailu/csce247/CSCE240/project/prog6-final/src/implem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

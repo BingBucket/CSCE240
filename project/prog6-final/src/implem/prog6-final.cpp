@@ -21,8 +21,8 @@ std::regex goodbye("((g|G)ood)?(b|B)ye");
 std::regex hello("(h|H)(i*|(ello))$");
 
 //This regex is used to find which file the user wants to search
-std::regex paramountIdentifier("(p|P)aramount( (g|G)lobal)?");
-std::regex netflixIdentifier("(n|N)et(f|F)lix");
+std::regex paramountIdentifier("(p|P)aramount('s)?( (g|G)lobal)?");
+std::regex netflixIdentifier("(n|N)et(f|F)lix('s)?");
 
 //Regex for all four parts of the file
 std::regex part1("(p|P)art (1|I)$");
@@ -48,9 +48,10 @@ std::regex financialstatement("(f|F)in+anc(es?|(ial))( (s|S)tatements?)?");
 std::regex showChat("((c?|C?)|(h?|H?))at (s|S)es?sion(s)?");
 
 //Regex for the sessionlogger
-std::regex reportStatistics("(s|S)|(t|T)at?(s|i?stics?)");
+std::regex reportStatistics("(s|S)(t|T)?at((s)|istics)?");
 std::regex showSummary("(s|S)umm?(a|a?)r(y|ies?)");
-std::regex showChatSession("(s|S)h?ow ?((c|C)|(h|H))*at ?(s|S)ess?io?n");
+std::regex showChatSession("((s|S)h?ow)? ?((c|C)|(h|H))*at ?(s|S)ess?io?n");
+std::regex showChatAlt("^(s|S)howchat [0-9]+$");
 
 
 //Initializing variables needed for the data logger text file and the .csv file.
@@ -84,7 +85,7 @@ std::string getCurrentDateTime() {
     auto current = std::chrono::system_clock::now();
     std::time_t currentTime = std::chrono::system_clock::to_time_t(current);
     std::stringstream ss;
-    ss << std::put_time(std::localtime(&currentTime), "%Y_%m_%d%_%H");
+    ss << std::put_time(std::localtime(&currentTime), "%Y_%m_%d%_%M");
     return ss.str();
 }
 
@@ -187,7 +188,7 @@ void readChatFromSessionFile(string fileName) {
     readFile.close();
 }
 
-//Code reused from Charles Grant's ShowChat function.
+//Code reused and modified from Charles Grant's ShowChat function.
 void ShowChat(string choice){
 	int seshNum=0;
 	string word;
@@ -195,9 +196,10 @@ void ShowChat(string choice){
 	istringstream iss(choice);
 	iss>>word;
 	iss>>seshNum;
+    cout << "Session number: " << seshNum << endl;
     
     string sessionFile = getSessionFileFromCSV(seshNum);
-	string FileName="../../data/chat_sessions/" + sessionFile + ".txt";
+	string FileName="../../data/chat_sessions/" + sessionFile;
 //creates inputFile of specific session file, relies onlayout of choice being one word and then chat, I specified that showchat 3 would display session 3
 	ifstream inputFile(FileName);
 	if(!inputFile.is_open()){
@@ -218,16 +220,17 @@ void ShowChat(string choice){
 void StatisticsSession(){
     int rowNum;
     int lines = countLinesCSV();
-    bool loop = true;
+    bool loopstat = true;
+    std::string userStatResponse;
     do {
         int totalUserResponseCount = 0;
         int totalProgResponseCount = 0;
         double totalElapsedTime = 0;
 
-        cout << "Welcome to the session logger! What would you like to do?" << "\n" << "You can ask for statistics of a specific session, show a chat session, show a summary of all sessions, or quit." << "\n";
+        cout << "Welcome to the session logger! What would you like to do?" << "\n" << "You can ask for statistics of a specific session, show a chat session, show a summary of all sessions, or quit." << "\nUse 'showchat' followed by a number to show a specific chat session.";
         cout << "We currently have " << lines << " sessions logged." << "\n";
-        std::string userResponse;
-        if(regex_match(userResponse, reportStatistics)){
+        getline(cin, userStatResponse);
+        if(regex_match(userStatResponse, reportStatistics)){
             cout << "Enter the row number of the session you would like to know the statistics of: ";
             cin >> rowNum;
             if(rowNum > lines){
@@ -241,8 +244,8 @@ void StatisticsSession(){
             cout << "Elapsed Time: " << elapsedTime << endl;
             }
         }
-        else if(regex_match(userResponse, showChatSession)){
-            cout << "Enter the session number you would like to read. There are currently " << countLinesCSV() << " sessions logged." << endl;
+        else if(regex_match(userStatResponse, showChatSession)){
+            cout << "Enter the session number you would like to read. There are currently " << lines << " sessions logged." << endl;
             cin >> rowNum;
             if(rowNum > lines){
                 cout << "Invalid session number. Please enter a valid session number." << endl;
@@ -253,7 +256,10 @@ void StatisticsSession(){
             cout << "Chat from session " << rowNum << " has been displayed." << endl;
             }
         }
-        else if(regex_match(userResponse, showSummary)){
+        else if(regex_match(userStatResponse, showChatAlt)){
+            ShowChat(userStatResponse);
+        }
+        else if(regex_match(userStatResponse, showSummary)){
             cout << "Summary of all sessions:" << endl;
             for(int i = 1; i < lines+1; i++){
                 readFromCSV(i);
@@ -265,14 +271,14 @@ void StatisticsSession(){
             cout << "Total Program Responses: " << totalProgResponseCount << endl;
             cout << "Total Elapsed Time: " << totalElapsedTime << " seconds" << endl;
         }
-        else if(regex_match(userResponse, quit) || regex_match(userResponse, goodbye)){
+        else if(regex_match(userStatResponse, quit) || regex_match(userStatResponse, goodbye)){
             cout << "Goodbye!" << endl;
-            loop = false;
+            loopstat = false;
         }
         else{
-            cout << "Invalid input. Please enter a valid option." << endl;
+            defaultMessage(userStatResponse);
         }
-    } while (loop == true);
+    } while (loopstat == true);
     cout << "Ending chat statistics session." << endl;
 
 }
@@ -287,8 +293,11 @@ void endSession(){
     //Writes session data to a file and appends the necessary data to the CSV file.
     writeToFile(logger);
     appendToCSV();
-    //Clears the responses stringstream to ensure that it is clean just in case.
+    //Clears the responses stringstream, and response count variables to ensure that it is clean just in case.
     responses.str("");
+    userResponseCount = 0;
+    progResponseCount = 0;
+    elapsedTime = 0;
 
 }
 
@@ -442,7 +451,7 @@ int main(){
                 elapsedTime = std::chrono::duration<double>(end - start).count();
                 endSession();
                 StatisticsSession();
-                loop = false;
+                auto start = std::chrono::system_clock::now();
             }
             else
             {
